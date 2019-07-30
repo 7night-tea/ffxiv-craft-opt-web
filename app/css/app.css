@@ -244,16 +244,37 @@ legend small > .light {
   line-height: 9px;
 }
 
-div[content*="xivdb"] div.tooltip-inner {
+div[content*="actiontooltip"] div.tooltip-inner {
+  /*min-width: 15em;*/
   max-width: 320px;
-  background: none;
-  text-align: inherit;
-  padding: 0;
+  text-align: left;
 }
 
-div[content*="xivdb"] div.tooltip-arrow {
+.action-tooltip-title {
+  font-size: large;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.action-tooltip-fields {
+}
+
+.action-tooltip-field-name {
+  font-size: small;
+  font-weight: bold;
+}
+
+.action-tooltip-field-value {
+  font-size: small;
+  font-weight: normal;
+  float: right;
+}
+
+/*
+div[content*="actiontooltip"] div.tooltip-arrow {
   display: none;
 }
+*/
 
 /* Customized Dropdown Menu */
 
@@ -516,7 +537,7 @@ div[content*="xivdb"] div.tooltip-arrow {
   opacity: 0.4;
 }
 
-.icon .cross-class {
+.icon .class-icon {
   position: absolute;
   top: 0;
   right: 0;
@@ -524,11 +545,11 @@ div[content*="xivdb"] div.tooltip-arrow {
   line-height: 12px;
 }
 
-.icon .cross-class>img {
+.icon .class-icon>img {
   width: 16px;
 }
 
-.sequence-small .icon .cross-class>img {
+.sequence-small .icon .class-icon>img {
   width: 12px;
 }
 
@@ -919,4 +940,15 @@ label {
 
 .input-fill {
   width: 100%;
+}
+
+label.disabled {
+    color: #ccc;
+}
+
+.macro-import-modal textarea.macro-text {
+    width:100%;
+    box-sizing: border-box;         /* For IE and modern versions of Chrome */
+    -moz-box-sizing: border-box;    /* For Firefox                          */
+    -webkit-box-sizing: border-box; /* For Safari                           */
 }

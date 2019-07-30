@@ -6,13 +6,13 @@
     .controller('MainController', controller);
 
   function controller($scope, $rootScope, $q, $modal, $translate, $location, _allClasses, _actionGroups, _actionsByName,
-    _profile, _localStorage, _xivdbtooltips, _getActionImagePath, _bonusStats, _languages, _isActionCrossClass)
+    _profile, _localStorage, _tooltips, _getActionImagePath, _bonusStats, _languages, _iActionClassSpecific)
   {
     $scope.allClasses = _allClasses;
     $scope.actionGroups = _actionGroups;
     $scope.allActions = _actionsByName;
     $scope.getActionImagePath = _getActionImagePath;
-    $scope.isActionCrossClass = _isActionCrossClass;
+    $scope.iActionClassSpecific = _iActionClassSpecific;
 
     $scope.changeLang = changeLang;
     $scope.currentLang = currentLang;
@@ -23,6 +23,7 @@
     $scope.saveSynthAs = saveSynthAs;
     $scope.deleteSynth = deleteSynth;
     $scope.renameSynth = renameSynth;
+    $scope.showMacroImportModal = showMacroImportModal;
     $scope.importSynth = importSynth;
     $scope.exportSynth = exportSynth;
     $scope.synthNameForDisplay = synthNameForDisplay;
@@ -74,14 +75,14 @@
     _profile.useStorage(_localStorage);
 
     $scope.cgBusyConfig.promise = $q.all([
-      _xivdbtooltips.loadTooltips($translate.use()),
+      _tooltips.loadTooltips($translate.use()),
       _profile.load().then(onProfileLoaded)
     ]);
 
     //////////////////////////////////////////////////////////////////////////
 
     function onTranslateChangeSuccess(event, data) {
-      $scope.cgBusyConfig.promise = _xivdbtooltips.loadTooltips(data.language);
+      $scope.cgBusyConfig.promise = _tooltips.loadTooltips(data.language);
       $scope.$broadcast('$translateChangeSuccess', data);
     }
 
@@ -184,7 +185,7 @@
       if (!$scope.profile) return;
 
       if (!noDirtyCheck && isSynthDirty()) {
-        if (!window.confirm('You have not saved the changes to your current sequence. Are you sure?')) {
+        if (!window.confirm($translate.instant('CONFIRM_NOT_SAVE'))) {
           return;
         }
       }
@@ -230,7 +231,7 @@
       if (name === undefined || name === '') {
         name = $scope.recipe.name;
       }
-      var newName = window.prompt('Enter new synth name:', name);
+      var newName = window.prompt($translate.instant('NEW_SYNTH_NAME'), name);
       if (newName === null || newName.length === 0) return;
       $scope.settings.name = newName;
       saveSynth(true);
@@ -240,7 +241,7 @@
       if (!$scope.profile) return;
 
       var name = $scope.settings.name;
-      if (window.confirm('Are you sure you want to delete the "' + name + '" synth?')) {
+      if (window.confirm($translate.instant('DELETE_SYNTH') + name)) {
         $scope.profile.deleteSynth(name);
         $scope.settings.name = '';
         $scope.savedSynthNames = $scope.profile.synthNames();
@@ -252,29 +253,60 @@
       if (!$scope.profile) return;
 
       var name = $scope.settings.name;
-      var newName = window.prompt('Enter new synth name:', name);
+      var newName = window.prompt($translate.instant('NEW_SYNTH_NAME'), name);
       if (newName === null || newName.length === 0) return;
       $scope.settings.name = newName;
       $scope.profile.renameSynth(name, newName);
       $scope.savedSynthNames = $scope.profile.synthNames();
     }
 
+    function showMacroImportModal() {
+      if (!$scope.profile) return;
+
+      var modalInstance = $modal.open({
+        templateUrl: 'modals/macroimport.html',
+        controller: 'MacroImportController',
+        windowClass: 'macro-import-modal',
+      });
+      modalInstance.result.then(function (result) {
+        $scope.sequence = result.sequence;
+      });
+    }
+
     function importSynth() {
       if (!$scope.profile) return;
 
-      var synthString = window.prompt('Enter new synth sequence code:', synthString);
-      var newSequence = JSON.parse(synthString);
+      var synthString = window.prompt($translate.instant('NEW_SYNTH_SEQUENCE'));
+      if (synthString === null || synthString === "") { return; }
 
-      if (Array.isArray(newSequence) && newSequence.length > 0) {
-        $scope.sequence = newSequence;
+      var newSequence;
+      try {
+        newSequence = JSON.parse(synthString);
+      } catch(e) {
+        window.alert($translate.instant('ERROR_SEQUENCE'));
+        return;
       }
+
+      if (Array.isArray(newSequence)) {
+        newSequence = newSequence.filter(function (value) { return $scope.allActions[value] !== undefined; });
+        if (newSequence.length > 0) {
+          $scope.sequence = newSequence;
+        }
+        else {
+          window.alert($translate.instant('ERROR_SYNTH_EMPTY'));
+        }
+      }
+      else {
+        window.alert($translate.instant('ERROR_SYNTH_INVALID'));
+      }
+
     }
 
     function exportSynth() {
       if (!$scope.profile) return;
 
-      var synthString = JSON.stringify($scope.sequence)
-      window.prompt('Synth sequence code:', synthString);
+      var synthString = JSON.stringify($scope.sequence);
+      window.prompt($translate.instant('SYNTH_SEQUENCE_CODE'), synthString);
     }
 
     function isSynthDirty() {
@@ -300,7 +332,9 @@
       if (!$scope.settings) return '';
 
       if ($scope.settings.name === '') {
-        return '<unnamed>';
+          var unnamedLabel = $translate.instant('UNNAMED');
+
+          return '<' + unnamedLabel + '>';
       }
       else {
         return $scope.settings.name;
@@ -390,8 +424,9 @@
         maxLength: 50,
         specifySeed: false,
         seed: 1337,
+        monteCarloMode: 'macro',
         useConditions: true,
-        overrideOnCondition: false,
+        conditionalActionHandling: 'skipUnusable',
         debug: false
       };
 
@@ -405,6 +440,7 @@
       $scope.macroOptions = {
         waitTime: 3,
         buffWaitTime: 2,
+        stepSoundEnabled: true,
         stepSoundEffect: 1,
         finishSoundEffect: 14
       };
@@ -430,6 +466,22 @@
 
       $scope.settings.name = state.settingsName;
       $scope.crafter.cls = state.crafterClass;
+
+      // Migrate settings
+      if ($scope.sequenceSettings.overrideOnCondition !== undefined) {
+        if ($scope.sequenceSettings.overrideOnCondition) {
+          $scope.sequenceSettings.monteCarloMode = 'advanced';
+          $scope.sequenceSettings.conditionalActionHandling = 'reposition';
+        }
+        else {
+          $scope.sequenceSettings.monteCarloMode = 'macro';
+          $scope.sequenceSettings.conditionalActionHandling = 'skipUnusable';
+        }
+
+        delete $scope.sequenceSettings.overrideOnCondition;
+
+        saveLocalPageState($scope);
+      }
 
       return true;
     }

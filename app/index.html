@@ -10,7 +10,6 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular-busy/4.1.0/angular-busy.min.css"/>
   <link rel="stylesheet" href="css/base.css"/>
   <link rel="stylesheet" href="css/app.css"/>
-  <link rel="stylesheet" href="https://secure.xivdb.com/tooltips.css"/>
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.32/angular.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/1.0.0-rc.1/angular-ui-router.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-busy/4.1.0/angular-busy.min.js"></script>
@@ -32,29 +31,29 @@
         <a class="brand" href="index.html">FFXIV Crafting Optimizer</a>
         <div class="nav-collapse" collapse="pageState.navBarCollapsed">
           <ul class="nav">
-            <li ui-sref-active="active"><a ui-sref="simulator">Simulator</a></li>
-            <li ui-sref-active="active"><a ui-sref="solver">Solver</a></li>
-            <li ui-sref-active="active"><a ui-sref="crafter-attributes">Crafter Attributes</a></li>
+            <li ui-sref-active="active"><a ui-sref="simulator">{{ 'NAV_SIMULATOR' | translate }}</a></li>
+            <li ui-sref-active="active"><a ui-sref="solver">{{ 'NAV_SOLVER' | translate}}</a></li>
+            <li ui-sref-active="active"><a ui-sref="crafter-attributes">{{ 'NAV_CRAFTER_ATTRIBUTES' | translate }}</a></li>
           </ul>
           <ul class="nav pull-right">
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle">More...</a>
+              <a href="#" class="dropdown-toggle">{{ 'MORE' | translate}}</a>
               <ul class="dropdown-menu">
-                <li><a ng-click="showSettingsImportModal()">Import/Export Settings...</a></li>
-                <li ui-sref-active="active"><a ui-sref="about">About</a></li>
-                <li ui-sref-active="active"><a ui-sref="instructions">Instructions</a></li>
+                <li><a ng-click="showSettingsImportModal()">{{ 'SETTINGS_MANAGEMENT' | translate }}</a></li>
+                <li ui-sref-active="active"><a ui-sref="about">{{ 'ABOUT' | translate}}</a></li>
+                <li ui-sref-active="active"><a ui-sref="instructions">{{ 'INSTRUCTIONS' | translate }}</a></li>
                 <li><a href="blog">Blog</a></li>
               </ul>
             </li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle">Language: {{languages[currentLang()]}}</a>
+              <a href="#" class="dropdown-toggle">{{ 'LANGUAGE' | translate }} : {{languages[currentLang()]}}</a>
               <ul class="dropdown-menu">
                 <li ng-repeat="(langCode, langName) in languages"><a ng-click="changeLang(langCode)">{{langName}}</a></li>
               </ul>
             </li>
             <li><a ng-click="showOptionsModal()">
               <i ng-if="pageState.navBarCollapsed" class="fa fa-cog fa-lg"></i>
-              <span ng-if="!pageState.navBarCollapsed">Options...</span>
+              <span ng-if="!pageState.navBarCollapsed">{{ 'OPTIONS' | translate}}</span>
             </a></li>
           </ul>
         </div>
@@ -65,7 +64,7 @@
   <div class="container-fluid">
     <div class="row-fluid">
       <noscript>
-        <h1>This site requires Javascript to function.</h1>
+        <h1>{{ 'NO_SCRIPT' | translate}}</h1>
       </noscript>
       <ng-form name="allForms">
         <div ui-view></div>
@@ -99,9 +98,8 @@
 <script src="js/services/profile.js"></script>
 <script src="js/services/simulator.js"></script>
 <script src="js/services/translatelocalstorage.js"></script>
-<script src="js/services/xivdb.js"></script>
 <script src="js/solver/service.js"></script>
-<script src="js/services/xivdbtooltips.js"></script>
+<script src="js/services/tooltips.js"></script>
 <script src="js/services/localstorage.js"></script>
 <script src="js/controllers/main.js"></script>
 <script src="js/controllers/crafterstats.js"></script>
@@ -112,6 +110,7 @@
 <script src="js/controllers/options.js"></script>
 <script src="js/controllers/charimport.js"></script>
 <script src="js/controllers/settingsimport.js"></script>
+<script src="js/controllers/macroimport.js"></script>
 <script src="js/directives.js"></script>
 <script src="js/components/simulator-status.js"></script>
 <script src="js/components/action-table.js"></script>

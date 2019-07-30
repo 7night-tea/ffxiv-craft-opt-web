@@ -3,6 +3,7 @@
     "baseLevel": 1,
     "difficulty": 19,
     "durability": 60,
+    "id": "6a2926cbf43",
     "level": 1,
     "maxQuality": 312,
     "name": {
@@ -18,6 +19,7 @@
     "baseLevel": 1,
     "difficulty": 28,
     "durability": 60,
+    "id": "23f4113343d",
     "level": 1,
     "maxQuality": 234,
     "name": {
@@ -33,6 +35,7 @@
     "baseLevel": 1,
     "difficulty": 19,
     "durability": 60,
+    "id": "a563850b403",
     "level": 1,
     "maxQuality": 312,
     "name": {
@@ -48,13 +51,14 @@
     "baseLevel": 1,
     "difficulty": 9,
     "durability": 40,
+    "id": "01d6e742818",
     "level": 1,
     "maxQuality": 312,
     "name": {
       "cn": "左舷船体元件",
       "de": "Backbordrumpf-Bauteil",
       "en": "Larboard Hull Component",
-      "fr": "Comp. de partie gauche de nacelle",
+      "fr": "Composant de partie gauche de nacelle",
       "ja": "左舷船体部材",
       "ko": "좌현 선체 부재"
     }
@@ -63,6 +67,7 @@
     "baseLevel": 1,
     "difficulty": 9,
     "durability": 40,
+    "id": "68cf4492c3b",
     "level": 1,
     "maxQuality": 312,
     "name": {
@@ -78,13 +83,14 @@
     "baseLevel": 1,
     "difficulty": 19,
     "durability": 60,
+    "id": "3df8b67da0b",
     "level": 1,
     "maxQuality": 312,
     "name": {
       "cn": "右舷船体元件",
       "de": "Steuerbordrumpf-Bauteil",
       "en": "Starboard Hull Component",
-      "fr": "Comp. de partie droite de nacelle",
+      "fr": "Composant de partie droite de nacelle",
       "ja": "右舷船体部材",
       "ko": "우현 선체 부재"
     }
@@ -93,6 +99,7 @@
     "baseLevel": 1,
     "difficulty": 9,
     "durability": 40,
+    "id": "daf1f9dc38c",
     "level": 1,
     "maxQuality": 312,
     "name": {
@@ -108,6 +115,7 @@
     "baseLevel": 2,
     "difficulty": 10,
     "durability": 40,
+    "id": "665373312df",
     "level": 2,
     "maxQuality": 325,
     "name": {
@@ -123,6 +131,7 @@
     "baseLevel": 3,
     "difficulty": 20,
     "durability": 60,
+    "id": "8cf29a732ca",
     "level": 3,
     "maxQuality": 339,
     "name": {
@@ -138,6 +147,7 @@
     "baseLevel": 3,
     "difficulty": 30,
     "durability": 60,
+    "id": "829bd5227f5",
     "level": 3,
     "maxQuality": 254,
     "name": {
@@ -153,6 +163,7 @@
     "baseLevel": 3,
     "difficulty": 30,
     "durability": 60,
+    "id": "3daecc7ccd7",
     "level": 3,
     "maxQuality": 254,
     "name": {
@@ -168,6 +179,7 @@
     "baseLevel": 3,
     "difficulty": 10,
     "durability": 40,
+    "id": "2de5ab37b20",
     "level": 3,
     "maxQuality": 339,
     "name": {
@@ -183,6 +195,7 @@
     "baseLevel": 3,
     "difficulty": 20,
     "durability": 60,
+    "id": "a6583bc4fac",
     "level": 3,
     "maxQuality": 339,
     "name": {
@@ -198,6 +211,7 @@
     "baseLevel": 3,
     "difficulty": 30,
     "durability": 60,
+    "id": "9be78c91d95",
     "level": 3,
     "maxQuality": 254,
     "name": {
@@ -213,6 +227,7 @@
     "baseLevel": 3,
     "difficulty": 10,
     "durability": 40,
+    "id": "2b97a4a206e",
     "level": 3,
     "maxQuality": 339,
     "name": {
@@ -228,6 +243,7 @@
     "baseLevel": 3,
     "difficulty": 36,
     "durability": 60,
+    "id": "af1b351f3d1",
     "level": 3,
     "maxQuality": 169,
     "name": {
@@ -243,6 +259,7 @@
     "baseLevel": 4,
     "difficulty": 21,
     "durability": 60,
+    "id": "fb965727d06",
     "level": 4,
     "maxQuality": 352,
     "name": {
@@ -258,6 +275,7 @@
     "baseLevel": 4,
     "difficulty": 10,
     "durability": 40,
+    "id": "ac8791c6448",
     "level": 4,
     "maxQuality": 352,
     "name": {
@@ -273,6 +291,7 @@
     "baseLevel": 4,
     "difficulty": 10,
     "durability": 40,
+    "id": "f843fe0723c",
     "level": 4,
     "maxQuality": 352,
     "name": {
@@ -288,6 +307,7 @@
     "baseLevel": 5,
     "difficulty": 33,
     "durability": 60,
+    "id": "2fcab565977",
     "level": 5,
     "maxQuality": 451,
     "name": {
@@ -303,6 +323,7 @@
     "baseLevel": 5,
     "difficulty": 33,
     "durability": 60,
+    "id": "4ee6ee4689c",
     "level": 5,
     "maxQuality": 451,
     "name": {
@@ -318,6 +339,7 @@
     "baseLevel": 5,
     "difficulty": 16,
     "durability": 40,
+    "id": "acbcceea029",
     "level": 5,
     "maxQuality": 451,
     "name": {
@@ -333,6 +355,7 @@
     "baseLevel": 5,
     "difficulty": 33,
     "durability": 60,
+    "id": "3a97f885b90",
     "level": 5,
     "maxQuality": 451,
     "name": {
@@ -348,6 +371,7 @@
     "baseLevel": 5,
     "difficulty": 33,
     "durability": 60,
+    "id": "63da58816ee",
     "level": 5,
     "maxQuality": 451,
     "name": {
@@ -363,6 +387,7 @@
     "baseLevel": 5,
     "difficulty": 33,
     "durability": 60,
+    "id": "b7a74d37952",
     "level": 5,
     "maxQuality": 451,
     "name": {
@@ -378,6 +403,7 @@
     "baseLevel": 5,
     "difficulty": 33,
     "durability": 60,
+    "id": "fd2bdf94c22",
     "level": 5,
     "maxQuality": 451,
     "name": {
@@ -393,6 +419,7 @@
     "baseLevel": 6,
     "difficulty": 36,
     "durability": 60,
+    "id": "c9f756f0dd7",
     "level": 6,
     "maxQuality": 474,
     "name": {
@@ -408,6 +435,7 @@
     "baseLevel": 6,
     "difficulty": 36,
     "durability": 60,
+    "id": "b71eaa67641",
     "level": 6,
     "maxQuality": 474,
     "name": {
@@ -423,6 +451,7 @@
     "baseLevel": 6,
     "difficulty": 18,
     "durability": 40,
+    "id": "97747c6d57a",
     "level": 6,
     "maxQuality": 474,
     "name": {
@@ -438,6 +467,7 @@
     "baseLevel": 6,
     "difficulty": 18,
     "durability": 40,
+    "id": "6078cfe53f7",
     "level": 6,
     "maxQuality": 474,
     "name": {
@@ -453,6 +483,7 @@
     "baseLevel": 6,
     "difficulty": 18,
     "durability": 40,
+    "id": "c5ca4821b43",
     "level": 6,
     "maxQuality": 474,
     "name": {
@@ -468,6 +499,7 @@
     "baseLevel": 6,
     "difficulty": 115,
     "durability": 60,
+    "id": "6d34a44d7e0",
     "level": 6,
     "maxQuality": 237,
     "name": {
@@ -483,6 +515,7 @@
     "baseLevel": 6,
     "difficulty": 36,
     "durability": 60,
+    "id": "624701d08cb",
     "level": 6,
     "maxQuality": 474,
     "name": {
@@ -498,6 +531,7 @@
     "baseLevel": 6,
     "difficulty": 18,
     "durability": 40,
+    "id": "e7e35e08034",
     "level": 6,
     "maxQuality": 474,
     "name": {
@@ -513,6 +547,7 @@
     "baseLevel": 7,
     "difficulty": 18,
     "durability": 40,
+    "id": "4a13b36c6de",
     "level": 7,
     "maxQuality": 492,
     "name": {
@@ -528,6 +563,7 @@
     "baseLevel": 7,
     "difficulty": 18,
     "durability": 40,
+    "id": "43485a05776",
     "level": 7,
     "maxQuality": 492,
     "name": {
@@ -543,6 +579,7 @@
     "baseLevel": 7,
     "difficulty": 37,
     "durability": 60,
+    "id": "c9a51f5c495",
     "level": 7,
     "maxQuality": 492,
     "name": {
@@ -558,6 +595,7 @@
     "baseLevel": 8,
     "difficulty": 41,
     "durability": 60,
+    "id": "c389f56912b",
     "level": 8,
     "maxQuality": 526,
     "name": {
@@ -573,6 +611,7 @@
     "baseLevel": 8,
     "difficulty": 41,
     "durability": 60,
+    "id": "6e16365bf97",
     "level": 8,
     "maxQuality": 526,
     "name": {
@@ -588,6 +627,7 @@
     "baseLevel": 9,
     "difficulty": 42,
     "durability": 60,
+    "id": "f173b1ee888",
     "level": 9,
     "maxQuality": 545,
     "name": {
@@ -603,6 +643,7 @@
     "baseLevel": 9,
     "difficulty": 42,
     "durability": 60,
+    "id": "b73b172edc2",
     "level": 9,
     "maxQuality": 545,
     "name": {
@@ -618,6 +659,7 @@
     "baseLevel": 10,
     "difficulty": 45,
     "durability": 60,
+    "id": "738c1233aee",
     "level": 10,
     "maxQuality": 629,
     "name": {
@@ -633,6 +675,7 @@
     "baseLevel": 10,
     "difficulty": 144,
     "durability": 60,
+    "id": "b37e7cd07fb",
     "level": 10,
     "maxQuality": 314,
     "name": {
@@ -648,6 +691,7 @@
     "baseLevel": 10,
     "difficulty": 45,
     "durability": 60,
+    "id": "ebf3643aea3",
     "level": 10,
     "maxQuality": 629,
     "name": {
@@ -663,6 +707,7 @@
     "baseLevel": 10,
     "difficulty": 22,
     "durability": 40,
+    "id": "98bfb6de215",
     "level": 10,
     "maxQuality": 629,
     "name": {
@@ -678,6 +723,7 @@
     "baseLevel": 10,
     "difficulty": 22,
     "durability": 40,
+    "id": "6155181a62d",
     "level": 10,
     "maxQuality": 629,
     "name": {
@@ -693,13 +739,14 @@
     "baseLevel": 10,
     "difficulty": 67,
     "durability": 60,
+    "id": "ad81a3b2d69",
     "level": 10,
     "maxQuality": 471,
     "name": {
       "cn": "左翼可动元件",
       "de": "Backbord-Tragflächengelenk-Bauteil",
       "en": "Larboard Wing Control Component",
-      "fr": "Comp. d'articulation d'aile gauche",
+      "fr": "Composant d'articulation d'aile gauche",
       "ja": "左翼可動部材",
       "ko": "왼쪽 날개 가동 부재"
     }
@@ -708,6 +755,7 @@
     "baseLevel": 10,
     "difficulty": 45,
     "durability": 60,
+    "id": "5830985a21f",
     "level": 10,
     "maxQuality": 629,
     "name": {
@@ -723,6 +771,7 @@
     "baseLevel": 10,
     "difficulty": 22,
     "durability": 40,
+    "id": "644de2e7c1a",
     "level": 10,
     "maxQuality": 629,
     "name": {
@@ -738,13 +787,14 @@
     "baseLevel": 10,
     "difficulty": 67,
     "durability": 60,
+    "id": "57fc70ee36a",
     "level": 10,
     "maxQuality": 471,
     "name": {
       "cn": "右翼可动元件",
       "de": "Steuerbord-Tragflächengelenk-Bauteil",
       "en": "Starboard Wing Control Component",
-      "fr": "Comp. d'articulation d'aile droite",
+      "fr": "Composant d'articulation d'aile droite",
       "ja": "右翼可動部材",
       "ko": "오른쪽 날개 가동 부재"
     }
@@ -753,6 +803,7 @@
     "baseLevel": 10,
     "difficulty": 144,
     "durability": 60,
+    "id": "cead6a9f4a6",
     "level": 10,
     "maxQuality": 314,
     "name": {
@@ -768,6 +819,7 @@
     "baseLevel": 11,
     "difficulty": 48,
     "durability": 60,
+    "id": "4472e7f6114",
     "level": 11,
     "maxQuality": 665,
     "name": {
@@ -783,6 +835,7 @@
     "baseLevel": 11,
     "difficulty": 24,
     "durability": 40,
+    "id": "6fc4eac72ad",
     "level": 11,
     "maxQuality": 665,
     "name": {
@@ -798,6 +851,7 @@
     "baseLevel": 11,
     "difficulty": 24,
     "durability": 40,
+    "id": "128461ebcb4",
     "level": 11,
     "maxQuality": 665,
     "name": {
@@ -813,6 +867,7 @@
     "baseLevel": 12,
     "difficulty": 53,
     "durability": 60,
+    "id": "236f009e812",
     "level": 12,
     "maxQuality": 702,
     "name": {
@@ -828,6 +883,7 @@
     "baseLevel": 12,
     "difficulty": 53,
     "durability": 60,
+    "id": "37fe1346240",
     "level": 12,
     "maxQuality": 702,
     "name": {
@@ -843,6 +899,7 @@
     "baseLevel": 12,
     "difficulty": 26,
     "durability": 40,
+    "id": "94d1fa1e034",
     "level": 12,
     "maxQuality": 702,
     "name": {
@@ -858,6 +915,7 @@
     "baseLevel": 13,
     "difficulty": 54,
     "durability": 60,
+    "id": "1dd4a18bb5a",
     "level": 13,
     "maxQuality": 726,
     "name": {
@@ -873,6 +931,7 @@
     "baseLevel": 13,
     "difficulty": 54,
     "durability": 60,
+    "id": "2729f1d6e32",
     "level": 13,
     "maxQuality": 726,
     "name": {
@@ -888,6 +947,7 @@
     "baseLevel": 14,
     "difficulty": 27,
     "durability": 40,
+    "id": "48fb1e7634b",
     "level": 14,
     "maxQuality": 751,
     "name": {
@@ -903,6 +963,7 @@
     "baseLevel": 14,
     "difficulty": 27,
     "durability": 40,
+    "id": "6a8be6bc99c",
     "level": 14,
     "maxQuality": 751,
     "name": {
@@ -918,6 +979,7 @@
     "baseLevel": 14,
     "difficulty": 54,
     "durability": 60,
+    "id": "058f1285937",
     "level": 14,
     "maxQuality": 751,
     "name": {
@@ -933,6 +995,7 @@
     "baseLevel": 15,
     "difficulty": 176,
     "durability": 70,
+    "id": "c048e13458a",
     "level": 15,
     "maxQuality": 403,
     "name": {
@@ -948,6 +1011,7 @@
     "baseLevel": 15,
     "difficulty": 176,
     "durability": 70,
+    "id": "703016031fa",
     "level": 15,
     "maxQuality": 403,
     "name": {
@@ -963,6 +1027,7 @@
     "baseLevel": 15,
     "difficulty": 99,
     "durability": 70,
+    "id": "8e1e6f888d4",
     "level": 15,
     "maxQuality": 1452,
     "name": {
@@ -978,6 +1043,7 @@
     "baseLevel": 15,
     "difficulty": 55,
     "durability": 70,
+    "id": "405312d19a1",
     "level": 15,
     "maxQuality": 807,
     "name": {
@@ -993,6 +1059,7 @@
     "baseLevel": 15,
     "difficulty": 99,
     "durability": 70,
+    "id": "c6984e2884a",
     "level": 15,
     "maxQuality": 1452,
     "name": {
@@ -1008,6 +1075,7 @@
     "baseLevel": 15,
     "difficulty": 27,
     "durability": 40,
+    "id": "6c5a6e3cc28",
     "level": 15,
     "maxQuality": 807,
     "name": {
@@ -1023,6 +1091,7 @@
     "baseLevel": 15,
     "difficulty": 55,
     "durability": 70,
+    "id": "f5f840fcf4b",
     "level": 15,
     "maxQuality": 807,
     "name": {
@@ -1038,6 +1107,7 @@
     "baseLevel": 15,
     "difficulty": 82,
     "durability": 70,
+    "id": "bdc835a52dc",
     "level": 15,
     "maxQuality": 605,
     "name": {
@@ -1053,6 +1123,7 @@
     "baseLevel": 15,
     "difficulty": 82,
     "durability": 70,
+    "id": "5abc90c95e3",
     "level": 15,
     "maxQuality": 605,
     "name": {
@@ -1068,6 +1139,7 @@
     "baseLevel": 15,
     "difficulty": 176,
     "durability": 70,
+    "id": "c2c442c63f2",
     "level": 15,
     "maxQuality": 403,
     "name": {
@@ -1083,6 +1155,7 @@
     "baseLevel": 16,
     "difficulty": 63,
     "durability": 70,
+    "id": "c4419b131e1",
     "level": 16,
     "maxQuality": 866,
     "name": {
@@ -1098,6 +1171,7 @@
     "baseLevel": 16,
     "difficulty": 31,
     "durability": 40,
+    "id": "7e3b8c4744f",
     "level": 16,
     "maxQuality": 866,
     "name": {
@@ -1113,6 +1187,7 @@
     "baseLevel": 16,
     "difficulty": 201,
     "durability": 70,
+    "id": "c951a4e1346",
     "level": 16,
     "maxQuality": 433,
     "name": {
@@ -1128,6 +1203,7 @@
     "baseLevel": 16,
     "difficulty": 63,
     "durability": 70,
+    "id": "70e8f771b36",
     "level": 16,
     "maxQuality": 866,
     "name": {
@@ -1143,6 +1219,7 @@
     "baseLevel": 16,
     "difficulty": 113,
     "durability": 70,
+    "id": "cf21791d372",
     "level": 16,
     "maxQuality": 1558,
     "name": {
@@ -1158,6 +1235,7 @@
     "baseLevel": 16,
     "difficulty": 201,
     "durability": 70,
+    "id": "57b9bd3a9fd",
     "level": 16,
     "maxQuality": 433,
     "name": {
@@ -1173,6 +1251,7 @@
     "baseLevel": 16,
     "difficulty": 63,
     "durability": 70,
+    "id": "8207083b3b9",
     "level": 16,
     "maxQuality": 866,
     "name": {
@@ -1188,6 +1267,7 @@
     "baseLevel": 16,
     "difficulty": 31,
     "durability": 40,
+    "id": "ae1345dcf27",
     "level": 16,
     "maxQuality": 866,
     "name": {
@@ -1203,6 +1283,7 @@
     "baseLevel": 16,
     "difficulty": 63,
     "durability": 70,
+    "id": "7ba574f8109",
     "level": 16,
     "maxQuality": 866,
     "name": {
@@ -1218,6 +1299,7 @@
     "baseLevel": 16,
     "difficulty": 31,
     "durability": 40,
+    "id": "bd9a22ac245",
     "level": 16,
     "maxQuality": 866,
     "name": {
@@ -1233,6 +1315,7 @@
     "baseLevel": 16,
     "difficulty": 201,
     "durability": 70,
+    "id": "b9df6dfa580",
     "level": 16,
     "maxQuality": 433,
     "name": {
@@ -1248,6 +1331,7 @@
     "baseLevel": 17,
     "difficulty": 33,
     "durability": 40,
+    "id": "3e6530089f8",
     "level": 17,
     "maxQuality": 898,
     "name": {
@@ -1263,6 +1347,7 @@
     "baseLevel": 17,
     "difficulty": 66,
     "durability": 70,
+    "id": "b124b7b5a15",
     "level": 17,
     "maxQuality": 898,
     "name": {
@@ -1278,6 +1363,7 @@
     "baseLevel": 17,
     "difficulty": 66,
     "durability": 70,
+    "id": "ec5c9dc53d2",
     "level": 17,
     "maxQuality": 898,
     "name": {
@@ -1291,8 +1377,25 @@
   },
   {
     "baseLevel": 17,
+    "difficulty": 118,
+    "durability": 70,
+    "id": "2c24c0c440c",
+    "level": 17,
+    "maxQuality": 449,
+    "name": {
+      "cn": "Sandwich Basket",
+      "de": "Korb voller Brotschnitten",
+      "en": "Sandwich Basket",
+      "fr": "Panier de sandwichs",
+      "ja": "サンドイッチバスケット",
+      "ko": "Sandwich Basket"
+    }
+  },
+  {
+    "baseLevel": 17,
     "difficulty": 66,
     "durability": 70,
+    "id": "1758bc0e28b",
     "level": 17,
     "maxQuality": 898,
     "name": {
@@ -1308,6 +1411,7 @@
     "baseLevel": 18,
     "difficulty": 67,
     "durability": 70,
+    "id": "19f9e72452a",
     "level": 18,
     "maxQuality": 939,
     "name": {
@@ -1323,13 +1427,14 @@
     "baseLevel": 18,
     "difficulty": 214,
     "durability": 70,
+    "id": "94e5981622d",
     "level": 18,
     "maxQuality": 469,
     "name": {
       "cn": "长风羽饰元件",
       "de": "Bugschmuck-Bauteil",
       "en": "Figurehead Component",
-      "fr": "Aile d'Ehcatl",
+      "fr": "Composant de figure de proue",
       "ja": "エカトルの羽根飾り",
       "ko": "에카틀 깃털 장식"
     }
@@ -1338,6 +1443,7 @@
     "baseLevel": 18,
     "difficulty": 120,
     "durability": 70,
+    "id": "3e412c89820",
     "level": 18,
     "maxQuality": 1690,
     "name": {
@@ -1353,6 +1459,7 @@
     "baseLevel": 18,
     "difficulty": 67,
     "durability": 70,
+    "id": "21d7f13f060",
     "level": 18,
     "maxQuality": 939,
     "name": {
@@ -1368,6 +1475,7 @@
     "baseLevel": 19,
     "difficulty": 68,
     "durability": 70,
+    "id": "90da2cb42f3",
     "level": 19,
     "maxQuality": 982,
     "name": {
@@ -1383,6 +1491,7 @@
     "baseLevel": 20,
     "difficulty": 74,
     "durability": 70,
+    "id": "7fb00c10f5d",
     "level": 20,
     "maxQuality": 1053,
     "name": {
@@ -1398,6 +1507,7 @@
     "baseLevel": 20,
     "difficulty": 74,
     "durability": 70,
+    "id": "79d4f6a50d1",
     "level": 20,
     "maxQuality": 1053,
     "name": {
@@ -1413,6 +1523,7 @@
     "baseLevel": 20,
     "difficulty": 74,
     "durability": 70,
+    "id": "3f645586478",
     "level": 20,
     "maxQuality": 1053,
     "name": {
@@ -1428,6 +1539,7 @@
     "baseLevel": 20,
     "difficulty": 74,
     "durability": 70,
+    "id": "bb677be8925",
     "level": 20,
     "maxQuality": 1053,
     "name": {
@@ -1443,6 +1555,7 @@
     "baseLevel": 20,
     "difficulty": 236,
     "durability": 70,
+    "id": "974b6fb72ee",
     "level": 20,
     "maxQuality": 526,
     "name": {
@@ -1458,6 +1571,7 @@
     "baseLevel": 21,
     "difficulty": 75,
     "durability": 70,
+    "id": "28e4cde9b0b",
     "level": 21,
     "maxQuality": 1090,
     "name": {
@@ -1473,6 +1587,7 @@
     "baseLevel": 21,
     "difficulty": 75,
     "durability": 70,
+    "id": "6f0e5c52506",
     "level": 21,
     "maxQuality": 1090,
     "name": {
@@ -1488,6 +1603,7 @@
     "baseLevel": 21,
     "difficulty": 75,
     "durability": 70,
+    "id": "97aa24e04c3",
     "level": 21,
     "maxQuality": 1090,
     "name": {
@@ -1503,6 +1619,7 @@
     "baseLevel": 21,
     "difficulty": 75,
     "durability": 70,
+    "id": "0425503be63",
     "level": 21,
     "maxQuality": 1090,
     "name": {
@@ -1518,6 +1635,7 @@
     "baseLevel": 22,
     "difficulty": 75,
     "durability": 70,
+    "id": "22ab77a50bd",
     "level": 22,
     "maxQuality": 1122,
     "name": {
@@ -1533,6 +1651,7 @@
     "baseLevel": 22,
     "difficulty": 75,
     "durability": 70,
+    "id": "7a4d7d9ad12",
     "level": 22,
     "maxQuality": 1122,
     "name": {
@@ -1548,6 +1667,7 @@
     "baseLevel": 22,
     "difficulty": 75,
     "durability": 70,
+    "id": "52f5d963d0d",
     "level": 22,
     "maxQuality": 1122,
     "name": {
@@ -1563,6 +1683,7 @@
     "baseLevel": 23,
     "difficulty": 79,
     "durability": 70,
+    "id": "71481307dd9",
     "level": 23,
     "maxQuality": 1169,
     "name": {
@@ -1578,6 +1699,7 @@
     "baseLevel": 23,
     "difficulty": 79,
     "durability": 70,
+    "id": "2ed58fd9341",
     "level": 23,
     "maxQuality": 1169,
     "name": {
@@ -1593,6 +1715,7 @@
     "baseLevel": 23,
     "difficulty": 79,
     "durability": 70,
+    "id": "c1b65d6df5b",
     "level": 23,
     "maxQuality": 1169,
     "name": {
@@ -1608,6 +1731,7 @@
     "baseLevel": 24,
     "difficulty": 85,
     "durability": 70,
+    "id": "2faf45bc967",
     "level": 24,
     "maxQuality": 1239,
     "name": {
@@ -1623,6 +1747,7 @@
     "baseLevel": 25,
     "difficulty": 89,
     "durability": 70,
+    "id": "ae6238806e7",
     "level": 25,
     "maxQuality": 1296,
     "name": {
@@ -1638,6 +1763,7 @@
     "baseLevel": 25,
     "difficulty": 89,
     "durability": 70,
+    "id": "10c855e59d8",
     "level": 25,
     "maxQuality": 1296,
     "name": {
@@ -1653,6 +1779,7 @@
     "baseLevel": 25,
     "difficulty": 284,
     "durability": 70,
+    "id": "5baed9b7bd2",
     "level": 25,
     "maxQuality": 648,
     "name": {
@@ -1668,6 +1795,7 @@
     "baseLevel": 26,
     "difficulty": 90,
     "durability": 70,
+    "id": "44292bc629a",
     "level": 26,
     "maxQuality": 1332,
     "name": {
@@ -1683,6 +1811,7 @@
     "baseLevel": 26,
     "difficulty": 90,
     "durability": 70,
+    "id": "c3cc1280f58",
     "level": 26,
     "maxQuality": 1332,
     "name": {
@@ -1698,6 +1827,7 @@
     "baseLevel": 26,
     "difficulty": 90,
     "durability": 70,
+    "id": "878ed2ccb78",
     "level": 26,
     "maxQuality": 1332,
     "name": {
@@ -1713,6 +1843,7 @@
     "baseLevel": 27,
     "difficulty": 91,
     "durability": 70,
+    "id": "1aaab7fe4fd",
     "level": 27,
     "maxQuality": 1368,
     "name": {
@@ -1726,8 +1857,25 @@
   },
   {
     "baseLevel": 27,
+    "difficulty": 163,
+    "durability": 70,
+    "id": "32f2eeeeddf",
+    "level": 27,
+    "maxQuality": 684,
+    "name": {
+      "cn": "炖点组合",
+      "de": "Schüssel Oden",
+      "en": "Bowl of Oden",
+      "fr": "Bol d'assortiment d'oden",
+      "ja": "おでん盛り合わせ",
+      "ko": "Bowl of Oden"
+    }
+  },
+  {
+    "baseLevel": 27,
     "difficulty": 91,
     "durability": 70,
+    "id": "e5f3a5e4ad9",
     "level": 27,
     "maxQuality": 1368,
     "name": {
@@ -1743,6 +1891,7 @@
     "baseLevel": 27,
     "difficulty": 91,
     "durability": 70,
+    "id": "98728df863f",
     "level": 27,
     "maxQuality": 1368,
     "name": {
@@ -1758,6 +1907,7 @@
     "baseLevel": 28,
     "difficulty": 50,
     "durability": 40,
+    "id": "a4c382b081e",
     "level": 28,
     "maxQuality": 1498,
     "name": {
@@ -1773,6 +1923,7 @@
     "baseLevel": 28,
     "difficulty": 100,
     "durability": 70,
+    "id": "e9691733ca5",
     "level": 28,
     "maxQuality": 1498,
     "name": {
@@ -1788,6 +1939,7 @@
     "baseLevel": 28,
     "difficulty": 100,
     "durability": 70,
+    "id": "508aa31bc2e",
     "level": 28,
     "maxQuality": 1498,
     "name": {
@@ -1803,6 +1955,7 @@
     "baseLevel": 29,
     "difficulty": 50,
     "durability": 40,
+    "id": "4b5ca15c87f",
     "level": 29,
     "maxQuality": 1544,
     "name": {
@@ -1818,6 +1971,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "458ed9b190a",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -1833,6 +1987,7 @@
     "baseLevel": 30,
     "difficulty": 102,
     "durability": 70,
+    "id": "b370bddffbc",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -1848,6 +2003,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "181d44a339a",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -1863,6 +2019,7 @@
     "baseLevel": 30,
     "difficulty": 183,
     "durability": 70,
+    "id": "737b5906178",
     "level": 30,
     "maxQuality": 792,
     "name": {
@@ -1878,6 +2035,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "10aa2e4b1b7",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -1893,6 +2051,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "7c735f26b62",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -1908,6 +2067,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "e49c377bf3c",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -1923,6 +2083,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "ecb2295345a",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -1938,6 +2099,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "357daa10a87",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -1953,6 +2115,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "6dfec66fd35",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -1968,6 +2131,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "af2b97b6769",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -1983,6 +2147,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "1641b8e3f3e",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -1998,6 +2163,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "73db0ad0833",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2013,6 +2179,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "660e943b663",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2028,6 +2195,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "03e74497e0c",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2043,6 +2211,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "6c2f3dc9005",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2058,6 +2227,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "356d1e64797",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2073,6 +2243,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "2b7c8f2d807",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2088,6 +2259,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "08e4c0c323c",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2103,6 +2275,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "9133d1585fb",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2118,6 +2291,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "8ade7272c3d",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2133,6 +2307,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "fb032e3e094",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2148,6 +2323,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "499784274aa",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2163,6 +2339,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "b0699976a4e",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2178,6 +2355,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "dbbb9db11bc",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2193,6 +2371,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "7596a7f156b",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2208,6 +2387,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "b77647f8e13",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2223,6 +2403,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "e6b0a1d137e",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2238,6 +2419,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "1896523c005",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2253,6 +2435,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "b66858fd774",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2268,6 +2451,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "30d200cd6d9",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2283,6 +2467,7 @@
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
+    "id": "c709cb547a1",
     "level": 30,
     "maxQuality": 1584,
     "name": {
@@ -2298,6 +2483,7 @@
     "baseLevel": 31,
     "difficulty": 106,
     "durability": 80,
+    "id": "f3db002ef03",
     "level": 31,
     "maxQuality": 1670,
     "name": {
@@ -2313,6 +2499,7 @@
     "baseLevel": 31,
     "difficulty": 106,
     "durability": 80,
+    "id": "ae86b58666a",
     "level": 31,
     "maxQuality": 1670,
     "name": {
@@ -2328,6 +2515,7 @@
     "baseLevel": 31,
     "difficulty": 53,
     "durability": 40,
+    "id": "7580d3191a7",
     "level": 31,
     "maxQuality": 1670,
     "name": {
@@ -2343,6 +2531,7 @@
     "baseLevel": 32,
     "difficulty": 110,
     "durability": 80,
+    "id": "731c5b1f613",
     "level": 32,
     "maxQuality": 1697,
     "name": {
@@ -2356,8 +2545,25 @@
   },
   {
     "baseLevel": 32,
+    "difficulty": 198,
+    "durability": 80,
+    "id": "9e19cd2b0fe",
+    "level": 32,
+    "maxQuality": 848,
+    "name": {
+      "cn": "汤锅炖菜",
+      "de": "Gemüseeintopf",
+      "en": "Pot of Cream Stew",
+      "fr": "Marmite de ragoût",
+      "ja": "シチューポット",
+      "ko": "Pot of Cream Stew"
+    }
+  },
+  {
+    "baseLevel": 32,
     "difficulty": 110,
     "durability": 80,
+    "id": "64ab4add9e0",
     "level": 32,
     "maxQuality": 1697,
     "name": {
@@ -2373,6 +2579,7 @@
     "baseLevel": 33,
     "difficulty": 111,
     "durability": 80,
+    "id": "648f790d5c1",
     "level": 33,
     "maxQuality": 1757,
     "name": {
@@ -2388,6 +2595,7 @@
     "baseLevel": 33,
     "difficulty": 111,
     "durability": 80,
+    "id": "3d92748fba4",
     "level": 33,
     "maxQuality": 1757,
     "name": {
@@ -2403,6 +2611,7 @@
     "baseLevel": 34,
     "difficulty": 115,
     "durability": 80,
+    "id": "6313bdb0f6e",
     "level": 34,
     "maxQuality": 1811,
     "name": {
@@ -2418,6 +2627,7 @@
     "baseLevel": 34,
     "difficulty": 115,
     "durability": 80,
+    "id": "370f19e732e",
     "level": 34,
     "maxQuality": 1811,
     "name": {
@@ -2433,6 +2643,7 @@
     "baseLevel": 35,
     "difficulty": 123,
     "durability": 80,
+    "id": "468a4a3c215",
     "level": 35,
     "maxQuality": 1853,
     "name": {
@@ -2448,6 +2659,7 @@
     "baseLevel": 35,
     "difficulty": 393,
     "durability": 80,
+    "id": "e4cdeacdbf4",
     "level": 35,
     "maxQuality": 926,
     "name": {
@@ -2463,6 +2675,7 @@
     "baseLevel": 35,
     "difficulty": 123,
     "durability": 80,
+    "id": "0ab5cb31987",
     "level": 35,
     "maxQuality": 1853,
     "name": {
@@ -2478,6 +2691,7 @@
     "baseLevel": 36,
     "difficulty": 62,
     "durability": 40,
+    "id": "73b35fcc8d3",
     "level": 36,
     "maxQuality": 1882,
     "name": {
@@ -2493,6 +2707,7 @@
     "baseLevel": 36,
     "difficulty": 124,
     "durability": 80,
+    "id": "049bb93803d",
     "level": 36,
     "maxQuality": 1882,
     "name": {
@@ -2508,6 +2723,7 @@
     "baseLevel": 37,
     "difficulty": 128,
     "durability": 80,
+    "id": "d1c78ceddd5",
     "level": 37,
     "maxQuality": 1905,
     "name": {
@@ -2523,6 +2739,7 @@
     "baseLevel": 37,
     "difficulty": 128,
     "durability": 80,
+    "id": "450cc217917",
     "level": 37,
     "maxQuality": 1905,
     "name": {
@@ -2538,6 +2755,7 @@
     "baseLevel": 38,
     "difficulty": 129,
     "durability": 80,
+    "id": "d6e8e88f0b4",
     "level": 38,
     "maxQuality": 1961,
     "name": {
@@ -2553,6 +2771,7 @@
     "baseLevel": 38,
     "difficulty": 129,
     "durability": 80,
+    "id": "3a1f0b46663",
     "level": 38,
     "maxQuality": 1961,
     "name": {
@@ -2568,6 +2787,7 @@
     "baseLevel": 39,
     "difficulty": 137,
     "durability": 80,
+    "id": "e1a21cbf625",
     "level": 39,
     "maxQuality": 2026,
     "name": {
@@ -2583,6 +2803,7 @@
     "baseLevel": 39,
     "difficulty": 137,
     "durability": 80,
+    "id": "68606a79330",
     "level": 39,
     "maxQuality": 2026,
     "name": {
@@ -2598,6 +2819,7 @@
     "baseLevel": 40,
     "difficulty": 138,
     "durability": 80,
+    "id": "28bfed79c35",
     "level": 40,
     "maxQuality": 2050,
     "name": {
@@ -2613,6 +2835,7 @@
     "baseLevel": 40,
     "difficulty": 441,
     "durability": 80,
+    "id": "13f7d793e42",
     "level": 40,
     "maxQuality": 1025,
     "name": {
@@ -2628,6 +2851,7 @@
     "baseLevel": 40,
     "difficulty": 138,
     "durability": 80,
+    "id": "d571239c429",
     "level": 40,
     "maxQuality": 2050,
     "name": {
@@ -2643,6 +2867,7 @@
     "baseLevel": 40,
     "difficulty": 138,
     "durability": 80,
+    "id": "5c604721871",
     "level": 40,
     "maxQuality": 2050,
     "name": {
@@ -2658,6 +2883,7 @@
     "baseLevel": 41,
     "difficulty": 143,
     "durability": 80,
+    "id": "e155edd67ba",
     "level": 41,
     "maxQuality": 2109,
     "name": {
@@ -2673,6 +2899,7 @@
     "baseLevel": 42,
     "difficulty": 144,
     "durability": 80,
+    "id": "bd5062aaf1d",
     "level": 42,
     "maxQuality": 2147,
     "name": {
@@ -2688,6 +2915,7 @@
     "baseLevel": 43,
     "difficulty": 155,
     "durability": 80,
+    "id": "bfc6ff8c0d4",
     "level": 43,
     "maxQuality": 2251,
     "name": {
@@ -2701,8 +2929,25 @@
   },
   {
     "baseLevel": 43,
+    "difficulty": 279,
+    "durability": 80,
+    "id": "7d5a4a39210",
+    "level": 43,
+    "maxQuality": 1125,
+    "name": {
+      "cn": "罗兰莓挞",
+      "de": "Rolanbeeren-Torte",
+      "en": "Redoubtable Rolanberry Tart",
+      "fr": "Tarte aux rolanbaies",
+      "ja": "ロランベリータルト",
+      "ko": "Redoubtable Rolanberry Tart"
+    }
+  },
+  {
+    "baseLevel": 43,
     "difficulty": 77,
     "durability": 40,
+    "id": "a283b186c44",
     "level": 43,
     "maxQuality": 2251,
     "name": {
@@ -2718,6 +2963,7 @@
     "baseLevel": 44,
     "difficulty": 156,
     "durability": 80,
+    "id": "2d672d8c016",
     "level": 44,
     "maxQuality": 2277,
     "name": {
@@ -2733,6 +2979,7 @@
     "baseLevel": 44,
     "difficulty": 156,
     "durability": 80,
+    "id": "929259f18b0",
     "level": 44,
     "maxQuality": 2277,
     "name": {
@@ -2748,6 +2995,7 @@
     "baseLevel": 45,
     "difficulty": 505,
     "durability": 80,
+    "id": "3b4dc32354c",
     "level": 45,
     "maxQuality": 1154,
     "name": {
@@ -2763,6 +3011,7 @@
     "baseLevel": 45,
     "difficulty": 158,
     "durability": 80,
+    "id": "65a755edb4e",
     "level": 45,
     "maxQuality": 2309,
     "name": {
@@ -2778,6 +3027,7 @@
     "baseLevel": 45,
     "difficulty": 158,
     "durability": 80,
+    "id": "a05776490e6",
     "level": 45,
     "maxQuality": 2309,
     "name": {
@@ -2793,6 +3043,7 @@
     "baseLevel": 45,
     "difficulty": 505,
     "durability": 80,
+    "id": "4218baeebf2",
     "level": 45,
     "maxQuality": 1154,
     "name": {
@@ -2808,6 +3059,7 @@
     "baseLevel": 45,
     "difficulty": 158,
     "durability": 80,
+    "id": "adccd2ea0ce",
     "level": 45,
     "maxQuality": 2309,
     "name": {
@@ -2823,6 +3075,7 @@
     "baseLevel": 46,
     "difficulty": 159,
     "durability": 80,
+    "id": "ad09ad1ce83",
     "level": 46,
     "maxQuality": 2372,
     "name": {
@@ -2838,6 +3091,7 @@
     "baseLevel": 47,
     "difficulty": 167,
     "durability": 80,
+    "id": "079b4cc09db",
     "level": 47,
     "maxQuality": 2421,
     "name": {
@@ -2853,6 +3107,7 @@
     "baseLevel": 48,
     "difficulty": 172,
     "durability": 80,
+    "id": "39a39079bc8",
     "level": 48,
     "maxQuality": 2524,
     "name": {
@@ -2868,6 +3123,7 @@
     "baseLevel": 49,
     "difficulty": 174,
     "durability": 80,
+    "id": "4294f35d48a",
     "level": 49,
     "maxQuality": 2551,
     "name": {
@@ -2883,6 +3139,7 @@
     "baseLevel": 50,
     "difficulty": 595,
     "durability": 80,
+    "id": "c0ef04e2380",
     "level": 50,
     "maxQuality": 1320,
     "name": {
@@ -2898,6 +3155,7 @@
     "baseLevel": 50,
     "difficulty": 595,
     "durability": 80,
+    "id": "df7436bb59a",
     "level": 50,
     "maxQuality": 1320,
     "name": {
@@ -2913,6 +3171,7 @@
     "baseLevel": 50,
     "difficulty": 357,
     "durability": 80,
+    "id": "d34f5f8413c",
     "level": 50,
     "maxQuality": 528,
     "name": {
@@ -2928,6 +3187,7 @@
     "baseLevel": 50,
     "difficulty": 279,
     "durability": 80,
+    "id": "042a5ed34bf",
     "level": 50,
     "maxQuality": 1980,
     "name": {
@@ -2943,6 +3203,7 @@
     "baseLevel": 50,
     "difficulty": 186,
     "durability": 80,
+    "id": "4d40e858f2b",
     "level": 50,
     "maxQuality": 2641,
     "name": {
@@ -2958,6 +3219,7 @@
     "baseLevel": 50,
     "difficulty": 267,
     "durability": 80,
+    "id": "9f80ce61674",
     "level": 50,
     "maxQuality": 660,
     "name": {
@@ -2973,6 +3235,7 @@
     "baseLevel": 50,
     "difficulty": 186,
     "durability": 80,
+    "id": "38209e7cb72",
     "level": 50,
     "maxQuality": 2641,
     "name": {
@@ -2988,6 +3251,7 @@
     "baseLevel": 50,
     "difficulty": 446,
     "durability": 80,
+    "id": "b2976000f9c",
     "level": 50,
     "maxQuality": 1056,
     "name": {
@@ -3003,6 +3267,7 @@
     "baseLevel": 50,
     "difficulty": 186,
     "durability": 80,
+    "id": "3de91401a7e",
     "level": 50,
     "maxQuality": 2641,
     "name": {
@@ -3018,6 +3283,7 @@
     "baseLevel": 50,
     "difficulty": 357,
     "durability": 80,
+    "id": "378564165b7",
     "level": 50,
     "maxQuality": 528,
     "name": {
@@ -3033,6 +3299,7 @@
     "baseLevel": 50,
     "difficulty": 95,
     "durability": 40,
+    "id": "33511e2eaba",
     "level": 50,
     "maxQuality": 2692,
     "name": {
@@ -3048,6 +3315,7 @@
     "baseLevel": 50,
     "difficulty": 446,
     "durability": 80,
+    "id": "079a1c0e47f",
     "level": 50,
     "maxQuality": 1056,
     "name": {
@@ -3063,6 +3331,7 @@
     "baseLevel": 50,
     "difficulty": 334,
     "durability": 80,
+    "id": "53e9f03828f",
     "level": 50,
     "maxQuality": 1320,
     "name": {
@@ -3078,6 +3347,7 @@
     "baseLevel": 50,
     "difficulty": 273,
     "durability": 80,
+    "id": "7a2627085bd",
     "level": 50,
     "maxQuality": 673,
     "name": {
@@ -3093,6 +3363,7 @@
     "baseLevel": 50,
     "difficulty": 334,
     "durability": 80,
+    "id": "0db2a228d3b",
     "level": 50,
     "maxQuality": 1320,
     "name": {
@@ -3108,6 +3379,7 @@
     "baseLevel": 50,
     "difficulty": 446,
     "durability": 80,
+    "id": "54d3624a7ea",
     "level": 50,
     "maxQuality": 1056,
     "name": {
@@ -3123,6 +3395,7 @@
     "baseLevel": 50,
     "difficulty": 334,
     "durability": 80,
+    "id": "74675e18b49",
     "level": 50,
     "maxQuality": 1320,
     "name": {
@@ -3138,6 +3411,7 @@
     "baseLevel": 50,
     "difficulty": 223,
     "durability": 80,
+    "id": "6d1294654f5",
     "level": 50,
     "maxQuality": 977,
     "name": {
@@ -3153,6 +3427,7 @@
     "baseLevel": 50,
     "difficulty": 357,
     "durability": 80,
+    "id": "eb1b64e3f96",
     "level": 50,
     "maxQuality": 528,
     "name": {
@@ -3168,6 +3443,7 @@
     "baseLevel": 50,
     "difficulty": 364,
     "durability": 80,
+    "id": "55d35e7cc4e",
     "level": 50,
     "maxQuality": 538,
     "name": {
@@ -3183,6 +3459,7 @@
     "baseLevel": 50,
     "difficulty": 334,
     "durability": 80,
+    "id": "2c7f5bc3ff5",
     "level": 50,
     "maxQuality": 1320,
     "name": {
@@ -3198,6 +3475,7 @@
     "baseLevel": 50,
     "difficulty": 279,
     "durability": 80,
+    "id": "08f5f1a520c",
     "level": 50,
     "maxQuality": 1980,
     "name": {
@@ -3213,6 +3491,7 @@
     "baseLevel": 50,
     "difficulty": 228,
     "durability": 80,
+    "id": "ff4fbe97b34",
     "level": 50,
     "maxQuality": 996,
     "name": {
@@ -3228,6 +3507,7 @@
     "baseLevel": 50,
     "difficulty": 223,
     "durability": 80,
+    "id": "83629316335",
     "level": 50,
     "maxQuality": 977,
     "name": {
@@ -3243,6 +3523,7 @@
     "baseLevel": 50,
     "difficulty": 486,
     "durability": 80,
+    "id": "4fb95331bd7",
     "level": 50,
     "maxQuality": 673,
     "name": {
@@ -3258,6 +3539,7 @@
     "baseLevel": 50,
     "difficulty": 186,
     "durability": 80,
+    "id": "b97b66bb9f2",
     "level": 50,
     "maxQuality": 2641,
     "name": {
@@ -3273,6 +3555,7 @@
     "baseLevel": 50,
     "difficulty": 186,
     "durability": 80,
+    "id": "8c0a085c517",
     "level": 50,
     "maxQuality": 2641,
     "name": {
@@ -3288,6 +3571,7 @@
     "baseLevel": 50,
     "difficulty": 595,
     "durability": 80,
+    "id": "61f41b277e4",
     "level": 50,
     "maxQuality": 1320,
     "name": {
@@ -3303,6 +3587,7 @@
     "baseLevel": 50,
     "difficulty": 267,
     "durability": 80,
+    "id": "20da98c082f",
     "level": 50,
     "maxQuality": 660,
     "name": {
@@ -3318,6 +3603,7 @@
     "baseLevel": 50,
     "difficulty": 446,
     "durability": 80,
+    "id": "e9a14507ab7",
     "level": 50,
     "maxQuality": 1056,
     "name": {
@@ -3333,6 +3619,7 @@
     "baseLevel": 50,
     "difficulty": 267,
     "durability": 80,
+    "id": "62298261164",
     "level": 50,
     "maxQuality": 660,
     "name": {
@@ -3348,38 +3635,7 @@
     "baseLevel": 50,
     "difficulty": 195,
     "durability": 80,
-    "level": 55,
-    "maxQuality": 2646,
-    "name": {
-      "cn": "黑滴糖",
-      "de": "Schwarzer Drops",
-      "en": "Black Drop",
-      "fr": "Bonbon noir",
-      "ja": "ブラックドロップ",
-      "ko": "검은 사탕"
-    },
-    "stars": 1
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 195,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 2646,
-    "name": {
-      "cn": "蓝滴糖",
-      "de": "Blauer Drops",
-      "en": "Blue Drop",
-      "fr": "Bonbon bleu",
-      "ja": "ブルードロップ",
-      "ko": "파란 사탕"
-    },
-    "stars": 1
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 195,
-    "durability": 80,
+    "id": "9779f223d98",
     "level": 55,
     "maxQuality": 2646,
     "name": {
@@ -3394,40 +3650,9 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 195,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 2646,
-    "name": {
-      "cn": "清滴糖",
-      "de": "Transparenter Drops",
-      "en": "Clear Drop",
-      "fr": "Bonbon transparent",
-      "ja": "クリアドロップ",
-      "ko": "투명 사탕"
-    },
-    "stars": 1
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 195,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 2646,
-    "name": {
-      "cn": "绿滴糖",
-      "de": "Grüner Drops",
-      "en": "Green Drop",
-      "fr": "Bonbon vert",
-      "ja": "グリーンドロップ",
-      "ko": "초록 사탕"
-    },
-    "stars": 1
-  },
-  {
-    "baseLevel": 50,
     "difficulty": 624,
     "durability": 80,
+    "id": "3a0645c0773",
     "level": 55,
     "maxQuality": 1323,
     "name": {
@@ -3444,6 +3669,7 @@
     "baseLevel": 50,
     "difficulty": 195,
     "durability": 80,
+    "id": "7f08098e7f1",
     "level": 55,
     "maxQuality": 2646,
     "name": {
@@ -3460,6 +3686,7 @@
     "baseLevel": 50,
     "difficulty": 624,
     "durability": 80,
+    "id": "a4e6fc31e12",
     "level": 55,
     "maxQuality": 1323,
     "name": {
@@ -3476,6 +3703,7 @@
     "baseLevel": 50,
     "difficulty": 195,
     "durability": 80,
+    "id": "b5566b3a6e7",
     "level": 55,
     "maxQuality": 2646,
     "name": {
@@ -3492,38 +3720,7 @@
     "baseLevel": 50,
     "difficulty": 195,
     "durability": 80,
-    "level": 55,
-    "maxQuality": 2646,
-    "name": {
-      "cn": "紫滴糖",
-      "de": "Violetter Drops",
-      "en": "Purple Drop",
-      "fr": "Bonbon violet",
-      "ja": "パープルドロップ",
-      "ko": "보라 사탕"
-    },
-    "stars": 1
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 195,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 2646,
-    "name": {
-      "cn": "红滴糖",
-      "de": "Roter Drops",
-      "en": "Red Drop",
-      "fr": "Bonbon rouge",
-      "ja": "レッドドロップ",
-      "ko": "빨간 사탕"
-    },
-    "stars": 1
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 195,
-    "durability": 80,
+    "id": "1e0c02bf819",
     "level": 55,
     "maxQuality": 2646,
     "name": {
@@ -3540,6 +3737,7 @@
     "baseLevel": 50,
     "difficulty": 195,
     "durability": 80,
+    "id": "5068689df0a",
     "level": 55,
     "maxQuality": 2646,
     "name": {
@@ -3554,40 +3752,9 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 195,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 2646,
-    "name": {
-      "cn": "白滴糖",
-      "de": "Weißer Drops",
-      "en": "White Drop",
-      "fr": "Bonbon blanc",
-      "ja": "ホワイトドロップ",
-      "ko": "하얀 사탕"
-    },
-    "stars": 1
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 195,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 2646,
-    "name": {
-      "cn": "黄滴糖",
-      "de": "Gelber Drops",
-      "en": "Yellow Drop",
-      "fr": "Bonbon jaune",
-      "ja": "イエロードロップ",
-      "ko": "노란 사탕"
-    },
-    "stars": 1
-  },
-  {
-    "baseLevel": 50,
     "difficulty": 745,
     "durability": 80,
+    "id": "4d4ed8eb197",
     "level": 70,
     "maxQuality": 1460,
     "name": {
@@ -3604,22 +3771,7 @@
     "baseLevel": 50,
     "difficulty": 233,
     "durability": 80,
-    "level": 70,
-    "maxQuality": 2921,
-    "name": {
-      "cn": "飞空艇修理材料",
-      "de": "Luftschiff-Reparaturkit",
-      "en": "Airship Repair Materials",
-      "fr": "Kit de réparation d'aéronef",
-      "ja": "飛空艇修理材",
-      "ko": "비공정 수리재"
-    },
-    "stars": 2
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 233,
-    "durability": 80,
+    "id": "2bcbc5822d2",
     "level": 70,
     "maxQuality": 2921,
     "name": {
@@ -3636,6 +3788,7 @@
     "baseLevel": 50,
     "difficulty": 233,
     "durability": 80,
+    "id": "085578bec84",
     "level": 70,
     "maxQuality": 2921,
     "name": {
@@ -3652,6 +3805,7 @@
     "baseLevel": 50,
     "difficulty": 233,
     "durability": 80,
+    "id": "84538a00d1a",
     "level": 70,
     "maxQuality": 2921,
     "name": {
@@ -3668,6 +3822,7 @@
     "baseLevel": 50,
     "difficulty": 233,
     "durability": 80,
+    "id": "6cc03cbf5f1",
     "level": 70,
     "maxQuality": 2921,
     "name": {
@@ -3684,6 +3839,7 @@
     "baseLevel": 50,
     "difficulty": 745,
     "durability": 80,
+    "id": "2e1f846d104",
     "level": 70,
     "maxQuality": 1460,
     "name": {
@@ -3700,6 +3856,7 @@
     "baseLevel": 50,
     "difficulty": 116,
     "durability": 80,
+    "id": "0b3c146b889",
     "level": 70,
     "maxQuality": 2921,
     "name": {
@@ -3716,6 +3873,7 @@
     "baseLevel": 50,
     "difficulty": 116,
     "durability": 80,
+    "id": "1d5da511114",
     "level": 70,
     "maxQuality": 2921,
     "name": {
@@ -3732,6 +3890,7 @@
     "baseLevel": 50,
     "difficulty": 116,
     "durability": 80,
+    "id": "b9c80716484",
     "level": 70,
     "maxQuality": 2921,
     "name": {
@@ -3748,6 +3907,7 @@
     "baseLevel": 50,
     "difficulty": 116,
     "durability": 80,
+    "id": "cf9cdadb127",
     "level": 70,
     "maxQuality": 2921,
     "name": {
@@ -3764,6 +3924,7 @@
     "baseLevel": 50,
     "difficulty": 116,
     "durability": 80,
+    "id": "7cf58e7ae97",
     "level": 70,
     "maxQuality": 2921,
     "name": {
@@ -3780,6 +3941,7 @@
     "baseLevel": 50,
     "difficulty": 233,
     "durability": 80,
+    "id": "edf9bdabeca",
     "level": 70,
     "maxQuality": 2921,
     "name": {
@@ -3796,6 +3958,24 @@
     "baseLevel": 50,
     "difficulty": 233,
     "durability": 80,
+    "id": "9791fc8be79",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "cn": "魔导机械修理材料",
+      "de": "Magitek-Reparaturkit",
+      "en": "Magitek Repair Materials",
+      "fr": "Kit de réparation d'appareil",
+      "ja": "魔導機械修理材",
+      "ko": "비공정 수리재"
+    },
+    "stars": 2
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 233,
+    "durability": 80,
+    "id": "6709c94403e",
     "level": 70,
     "maxQuality": 2921,
     "name": {
@@ -3812,6 +3992,7 @@
     "baseLevel": 50,
     "difficulty": 233,
     "durability": 80,
+    "id": "903235d6a3f",
     "level": 70,
     "maxQuality": 2921,
     "name": {
@@ -3828,6 +4009,7 @@
     "baseLevel": 50,
     "difficulty": 233,
     "durability": 80,
+    "id": "a0cb6adb34b",
     "level": 70,
     "maxQuality": 2921,
     "name": {
@@ -3844,6 +4026,7 @@
     "baseLevel": 50,
     "difficulty": 419,
     "durability": 80,
+    "id": "76211a74b64",
     "level": 70,
     "maxQuality": 5257,
     "name": {
@@ -3860,6 +4043,7 @@
     "baseLevel": 50,
     "difficulty": 233,
     "durability": 80,
+    "id": "3fa8b89acd2",
     "level": 70,
     "maxQuality": 2921,
     "name": {
@@ -3876,6 +4060,7 @@
     "baseLevel": 50,
     "difficulty": 222,
     "durability": 40,
+    "id": "52c7b2fee2e",
     "level": 90,
     "maxQuality": 4980,
     "name": {
@@ -3892,6 +4077,7 @@
     "baseLevel": 50,
     "difficulty": 445,
     "durability": 80,
+    "id": "27db50ee25c",
     "level": 90,
     "maxQuality": 4980,
     "name": {
@@ -3908,6 +4094,7 @@
     "baseLevel": 50,
     "difficulty": 445,
     "durability": 80,
+    "id": "1aab430d930",
     "level": 90,
     "maxQuality": 4980,
     "name": {
@@ -3924,6 +4111,7 @@
     "baseLevel": 50,
     "difficulty": 801,
     "durability": 80,
+    "id": "356af03b5ea",
     "level": 90,
     "maxQuality": 8964,
     "name": {
@@ -3940,6 +4128,7 @@
     "baseLevel": 50,
     "difficulty": 445,
     "durability": 80,
+    "id": "7dd91bf87c7",
     "level": 90,
     "maxQuality": 4980,
     "name": {
@@ -3956,6 +4145,7 @@
     "baseLevel": 50,
     "difficulty": 445,
     "durability": 80,
+    "id": "a037c794ad0",
     "level": 90,
     "maxQuality": 4980,
     "name": {
@@ -3972,6 +4162,7 @@
     "baseLevel": 50,
     "difficulty": 445,
     "durability": 80,
+    "id": "887a3f4fe6c",
     "level": 90,
     "maxQuality": 4980,
     "name": {
@@ -3988,6 +4179,7 @@
     "baseLevel": 50,
     "difficulty": 445,
     "durability": 80,
+    "id": "ed53371d480",
     "level": 90,
     "maxQuality": 4980,
     "name": {
@@ -4004,6 +4196,7 @@
     "baseLevel": 50,
     "difficulty": 445,
     "durability": 80,
+    "id": "323eb2ddf17",
     "level": 90,
     "maxQuality": 4980,
     "name": {
@@ -4020,6 +4213,7 @@
     "baseLevel": 50,
     "difficulty": 1424,
     "durability": 80,
+    "id": "1652594b902",
     "level": 90,
     "maxQuality": 2490,
     "name": {
@@ -4036,6 +4230,7 @@
     "baseLevel": 50,
     "difficulty": 586,
     "durability": 80,
+    "id": "afa086f595e",
     "level": 110,
     "maxQuality": 5783,
     "name": {
@@ -4052,6 +4247,7 @@
     "baseLevel": 50,
     "difficulty": 586,
     "durability": 80,
+    "id": "0531fddf6e5",
     "level": 110,
     "maxQuality": 5783,
     "name": {
@@ -4068,6 +4264,7 @@
     "baseLevel": 50,
     "difficulty": 586,
     "durability": 80,
+    "id": "509c9c00325",
     "level": 110,
     "maxQuality": 5783,
     "name": {
@@ -4084,6 +4281,7 @@
     "baseLevel": 50,
     "difficulty": 586,
     "durability": 80,
+    "id": "36abe3135bc",
     "level": 110,
     "maxQuality": 5783,
     "name": {
@@ -4100,6 +4298,7 @@
     "baseLevel": 51,
     "difficulty": 421,
     "durability": 80,
+    "id": "7c497297bc1",
     "level": 120,
     "maxQuality": 4561,
     "name": {
@@ -4115,6 +4314,7 @@
     "baseLevel": 51,
     "difficulty": 210,
     "durability": 40,
+    "id": "10e999dde6e",
     "level": 120,
     "maxQuality": 4561,
     "name": {
@@ -4130,10 +4330,11 @@
     "baseLevel": 52,
     "difficulty": 503,
     "durability": 80,
+    "id": "0ae94dcc1f9",
     "level": 125,
     "maxQuality": 5172,
     "name": {
-      "cn": "洋葱焗奶油汤",
+      "cn": "芝士焗洋葱汤",
       "de": "Überbackene Zwiebelsuppe",
       "en": "Baked Onion Soup",
       "fr": "Soupe à l'oignon",
@@ -4145,6 +4346,7 @@
     "baseLevel": 52,
     "difficulty": 905,
     "durability": 80,
+    "id": "ba2dde5e48b",
     "level": 125,
     "maxQuality": 2586,
     "name": {
@@ -4160,6 +4362,7 @@
     "baseLevel": 52,
     "difficulty": 251,
     "durability": 40,
+    "id": "c80449ab311",
     "level": 125,
     "maxQuality": 5172,
     "name": {
@@ -4173,8 +4376,25 @@
   },
   {
     "baseLevel": 52,
+    "difficulty": 905,
+    "durability": 80,
+    "id": "9e85fb49f22",
+    "level": 125,
+    "maxQuality": 2586,
+    "name": {
+      "cn": "哈利卡纳苏斯午茶组合",
+      "de": "Teeservice der königlichen Matrone",
+      "en": "Royal Dowager Tea Set",
+      "fr": "Service de thé Halicarnasse",
+      "ja": "ハリカルナッソスのティーセット",
+      "ko": "Royal Dowager Tea Set"
+    }
+  },
+  {
+    "baseLevel": 52,
     "difficulty": 503,
     "durability": 80,
+    "id": "89e8476144f",
     "level": 125,
     "maxQuality": 5172,
     "name": {
@@ -4190,6 +4410,7 @@
     "baseLevel": 53,
     "difficulty": 293,
     "durability": 40,
+    "id": "6267493860a",
     "level": 130,
     "maxQuality": 5783,
     "name": {
@@ -4205,6 +4426,7 @@
     "baseLevel": 53,
     "difficulty": 586,
     "durability": 80,
+    "id": "56d84b256eb",
     "level": 130,
     "maxQuality": 5783,
     "name": {
@@ -4220,6 +4442,7 @@
     "baseLevel": 53,
     "difficulty": 586,
     "durability": 80,
+    "id": "9fa9c665783",
     "level": 130,
     "maxQuality": 5783,
     "name": {
@@ -4235,6 +4458,7 @@
     "baseLevel": 53,
     "difficulty": 586,
     "durability": 80,
+    "id": "41d53fbb05c",
     "level": 130,
     "maxQuality": 5783,
     "name": {
@@ -4250,6 +4474,7 @@
     "baseLevel": 54,
     "difficulty": 641,
     "durability": 80,
+    "id": "0bb72cf8e51",
     "level": 133,
     "maxQuality": 6042,
     "name": {
@@ -4265,6 +4490,7 @@
     "baseLevel": 54,
     "difficulty": 641,
     "durability": 80,
+    "id": "f30dd82aca8",
     "level": 133,
     "maxQuality": 6042,
     "name": {
@@ -4280,6 +4506,7 @@
     "baseLevel": 54,
     "difficulty": 641,
     "durability": 80,
+    "id": "2919a6cb3ed",
     "level": 133,
     "maxQuality": 6042,
     "name": {
@@ -4295,6 +4522,7 @@
     "baseLevel": 54,
     "difficulty": 641,
     "durability": 80,
+    "id": "776c3ee3e4d",
     "level": 133,
     "maxQuality": 6042,
     "name": {
@@ -4310,6 +4538,7 @@
     "baseLevel": 55,
     "difficulty": 348,
     "durability": 35,
+    "id": "641531fb241",
     "level": 136,
     "maxQuality": 6301,
     "name": {
@@ -4323,8 +4552,25 @@
   },
   {
     "baseLevel": 55,
+    "difficulty": 1254,
+    "durability": 70,
+    "id": "a171ae178b9",
+    "level": 136,
+    "maxQuality": 3150,
+    "name": {
+      "cn": "博雷尔午茶组合",
+      "de": "Teeservice des Hauses Borel",
+      "en": "House Borel Tea Set",
+      "fr": "Service de thé de la maison Borel",
+      "ja": "ボーレルティーセット",
+      "ko": "House Borel Tea Set"
+    }
+  },
+  {
+    "baseLevel": 55,
     "difficulty": 697,
     "durability": 70,
+    "id": "3406411ce8f",
     "level": 136,
     "maxQuality": 6301,
     "name": {
@@ -4340,6 +4586,7 @@
     "baseLevel": 56,
     "difficulty": 752,
     "durability": 70,
+    "id": "2cd229a2cdc",
     "level": 139,
     "maxQuality": 6561,
     "name": {
@@ -4355,6 +4602,7 @@
     "baseLevel": 56,
     "difficulty": 1353,
     "durability": 70,
+    "id": "10060bc5094",
     "level": 139,
     "maxQuality": 3280,
     "name": {
@@ -4370,6 +4618,7 @@
     "baseLevel": 56,
     "difficulty": 1353,
     "durability": 70,
+    "id": "8539edb6168",
     "level": 139,
     "maxQuality": 3280,
     "name": {
@@ -4385,6 +4634,7 @@
     "baseLevel": 56,
     "difficulty": 1353,
     "durability": 70,
+    "id": "48d8e5e8e9d",
     "level": 139,
     "maxQuality": 3280,
     "name": {
@@ -4400,6 +4650,7 @@
     "baseLevel": 56,
     "difficulty": 1353,
     "durability": 70,
+    "id": "3f1d90f46ff",
     "level": 139,
     "maxQuality": 3280,
     "name": {
@@ -4415,6 +4666,7 @@
     "baseLevel": 56,
     "difficulty": 1353,
     "durability": 70,
+    "id": "65778a38adf",
     "level": 139,
     "maxQuality": 3280,
     "name": {
@@ -4430,6 +4682,7 @@
     "baseLevel": 56,
     "difficulty": 752,
     "durability": 70,
+    "id": "797b2fa4778",
     "level": 139,
     "maxQuality": 6561,
     "name": {
@@ -4445,6 +4698,7 @@
     "baseLevel": 56,
     "difficulty": 376,
     "durability": 35,
+    "id": "08446020a3f",
     "level": 139,
     "maxQuality": 6561,
     "name": {
@@ -4460,6 +4714,7 @@
     "baseLevel": 57,
     "difficulty": 1454,
     "durability": 70,
+    "id": "55e640990e4",
     "level": 142,
     "maxQuality": 3410,
     "name": {
@@ -4475,6 +4730,7 @@
     "baseLevel": 57,
     "difficulty": 808,
     "durability": 70,
+    "id": "9e56c0d4945",
     "level": 142,
     "maxQuality": 6820,
     "name": {
@@ -4490,6 +4746,7 @@
     "baseLevel": 57,
     "difficulty": 808,
     "durability": 60,
+    "id": "a46ed91dfe1",
     "level": 142,
     "maxQuality": 5456,
     "name": {
@@ -4505,6 +4762,7 @@
     "baseLevel": 57,
     "difficulty": 404,
     "durability": 60,
+    "id": "f5cf1b06109",
     "level": 142,
     "maxQuality": 2728,
     "name": {
@@ -4520,6 +4778,7 @@
     "baseLevel": 57,
     "difficulty": 1454,
     "durability": 70,
+    "id": "b4b4282240e",
     "level": 142,
     "maxQuality": 3410,
     "name": {
@@ -4535,6 +4794,7 @@
     "baseLevel": 57,
     "difficulty": 808,
     "durability": 70,
+    "id": "8a728deb6cd",
     "level": 142,
     "maxQuality": 6820,
     "name": {
@@ -4550,6 +4810,7 @@
     "baseLevel": 58,
     "difficulty": 863,
     "durability": 70,
+    "id": "20fb6b0cdbb",
     "level": 145,
     "maxQuality": 7080,
     "name": {
@@ -4565,6 +4826,23 @@
     "baseLevel": 58,
     "difficulty": 863,
     "durability": 70,
+    "id": "1a48b2f72dc",
+    "level": 145,
+    "maxQuality": 7080,
+    "name": {
+      "cn": "篝火台部件",
+      "de": "Feuerschalenteil",
+      "en": "Brazier Components",
+      "fr": "Composant de braséro",
+      "ja": "篝火台部材",
+      "ko": "Brazier Components"
+    }
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 863,
+    "durability": 70,
+    "id": "f378c69d85b",
     "level": 145,
     "maxQuality": 7080,
     "name": {
@@ -4580,6 +4858,7 @@
     "baseLevel": 58,
     "difficulty": 863,
     "durability": 60,
+    "id": "823d5a8ac76",
     "level": 145,
     "maxQuality": 5664,
     "name": {
@@ -4595,6 +4874,7 @@
     "baseLevel": 58,
     "difficulty": 431,
     "durability": 60,
+    "id": "95ec5dba123",
     "level": 145,
     "maxQuality": 2832,
     "name": {
@@ -4610,6 +4890,23 @@
     "baseLevel": 58,
     "difficulty": 863,
     "durability": 70,
+    "id": "67c7a6c2d73",
+    "level": 145,
+    "maxQuality": 7080,
+    "name": {
+      "cn": "交易品部件",
+      "de": "Tauschware",
+      "en": "Finery Components",
+      "fr": "Marchandises commerciales",
+      "ja": "交易品部材",
+      "ko": "Finery Components"
+    }
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 863,
+    "durability": 70,
+    "id": "2a8162b5ad8",
     "level": 145,
     "maxQuality": 7080,
     "name": {
@@ -4622,9 +4919,106 @@
     }
   },
   {
+    "baseLevel": 58,
+    "difficulty": 863,
+    "durability": 70,
+    "id": "39825310dc4",
+    "level": 145,
+    "maxQuality": 7080,
+    "name": {
+      "cn": "法被部件",
+      "de": "Happi-Element",
+      "en": "Happi Components",
+      "fr": "Composant de happi",
+      "ja": "ハッピ部材",
+      "ko": "Happi Components"
+    }
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 1553,
+    "durability": 70,
+    "id": "5fb89f3f860",
+    "level": 145,
+    "maxQuality": 3540,
+    "name": {
+      "cn": "净化用祭具",
+      "de": "Reinigungsfetisch",
+      "en": "Ritual Implement Components",
+      "fr": "Instruments de purification",
+      "ja": "清めの祭具",
+      "ko": "Ritual Implement Components"
+    }
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 1553,
+    "durability": 70,
+    "id": "dc26d96253a",
+    "level": 145,
+    "maxQuality": 3540,
+    "name": {
+      "cn": "礼品部件",
+      "de": "Kleinigkeit",
+      "en": "Trinket Components",
+      "fr": "Présent modeste",
+      "ja": "粗品部材",
+      "ko": "Trinket Components"
+    }
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 431,
+    "durability": 35,
+    "id": "93c3a149cd8",
+    "level": 145,
+    "maxQuality": 7080,
+    "name": {
+      "cn": "团扇部件",
+      "de": "Fächerteil",
+      "en": "Uchiwa Components",
+      "fr": "Élément d'éventail",
+      "ja": "うちわ部材",
+      "ko": "Uchiwa Components"
+    }
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 1378,
+    "durability": 70,
+    "id": "d6cddffbaa6",
+    "level": 148,
+    "maxQuality": 5504,
+    "name": {
+      "cn": "供台部件",
+      "de": "Altarelement",
+      "en": "Altar Components",
+      "fr": "Composant d'autel",
+      "ja": "供物台部材",
+      "ko": "Altar Components"
+    }
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 1654,
+    "durability": 70,
+    "id": "045f223bac3",
+    "level": 148,
+    "maxQuality": 3669,
+    "name": {
+      "cn": "游牧民风格的商品",
+      "de": "Handelsware",
+      "en": "Azim Steppe Souvenir Components",
+      "fr": "Produit d'inspiration nomade",
+      "ja": "遊牧民風の商材",
+      "ko": "Azim Steppe Souvenir Components"
+    }
+  },
+  {
     "baseLevel": 59,
     "difficulty": 459,
     "durability": 35,
+    "id": "fd02a6049a4",
     "level": 148,
     "maxQuality": 7339,
     "name": {
@@ -4640,6 +5034,55 @@
     "baseLevel": 59,
     "difficulty": 919,
     "durability": 70,
+    "id": "9dcef7d7d56",
+    "level": 148,
+    "maxQuality": 7339,
+    "name": {
+      "cn": "蒸包子用品",
+      "de": "Buuds-Kochutensilie",
+      "en": "Buuz Cooking Paraphernalia",
+      "fr": "Ustensile de cuisine pour buuz",
+      "ja": "ボーズ調理用品",
+      "ko": "Buuz Cooking Paraphernalia"
+    }
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 919,
+    "durability": 70,
+    "id": "fb12b6eaf92",
+    "level": 148,
+    "maxQuality": 7339,
+    "name": {
+      "cn": "鲶鱼钓具",
+      "de": "Wels-Köder",
+      "en": "Catfish Lure Components",
+      "fr": "Accessoire de pêche au poisson-chat",
+      "ja": "ナマズ釣り具",
+      "ko": "Catfish Lure Components"
+    }
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 919,
+    "durability": 70,
+    "id": "9bea2c745a5",
+    "level": 148,
+    "maxQuality": 7339,
+    "name": {
+      "cn": "祖先招待用品",
+      "de": "Ritualgegenstand zur Ahnenverehrung",
+      "en": "Hingan Ritual Paraphernalia",
+      "fr": "Objet cérémoniel",
+      "ja": "先祖の接待用品",
+      "ko": "Hingan Ritual Paraphernalia"
+    }
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 919,
+    "durability": 70,
+    "id": "0e2f24c3fd0",
     "level": 148,
     "maxQuality": 7339,
     "name": {
@@ -4655,6 +5098,7 @@
     "baseLevel": 59,
     "difficulty": 919,
     "durability": 60,
+    "id": "817a7f28c8f",
     "level": 148,
     "maxQuality": 5871,
     "name": {
@@ -4670,6 +5114,7 @@
     "baseLevel": 59,
     "difficulty": 459,
     "durability": 60,
+    "id": "2a89d9aad64",
     "level": 148,
     "maxQuality": 2935,
     "name": {
@@ -4685,6 +5130,7 @@
     "baseLevel": 59,
     "difficulty": 919,
     "durability": 70,
+    "id": "5a15fa2996c",
     "level": 148,
     "maxQuality": 7339,
     "name": {
@@ -4697,9 +5143,42 @@
     }
   },
   {
+    "baseLevel": 59,
+    "difficulty": 459,
+    "durability": 35,
+    "id": "9b08e07adff",
+    "level": 148,
+    "maxQuality": 7339,
+    "name": {
+      "cn": "茶会必需品",
+      "de": "Tee-Bedarfsartikel",
+      "en": "Mol Tea Ceremony Paraphernalia",
+      "fr": "Élément de cérémonie du thé",
+      "ja": "茶会必需品",
+      "ko": "Mol Tea Ceremony Paraphernalia"
+    }
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 1323,
+    "durability": 70,
+    "id": "aa4a83296e1",
+    "level": 148,
+    "maxQuality": 1834,
+    "name": {
+      "cn": "供品",
+      "de": "Opfergabe",
+      "en": "Substitute Offering",
+      "fr": "Offrande piégée",
+      "ja": "供物用品",
+      "ko": "Substitute Offering"
+    }
+  },
+  {
     "baseLevel": 60,
     "difficulty": 1720,
     "durability": 70,
+    "id": "4cdf7ff6dda",
     "level": 150,
     "maxQuality": 3925,
     "name": {
@@ -4713,8 +5192,25 @@
   },
   {
     "baseLevel": 60,
+    "difficulty": 1376,
+    "durability": 70,
+    "id": "7f76c2f81ce",
+    "level": 150,
+    "maxQuality": 1962,
+    "name": {
+      "cn": "祭弓部件",
+      "de": "Ritualbogenelement",
+      "en": "Ceremonial Bow Components",
+      "fr": "Composant d'arc cérémoniel",
+      "ja": "祭弓部材",
+      "ko": "Ceremonial Bow Components"
+    }
+  },
+  {
+    "baseLevel": 60,
     "difficulty": 956,
     "durability": 70,
+    "id": "e94a2251594",
     "level": 150,
     "maxQuality": 7851,
     "name": {
@@ -4728,8 +5224,41 @@
   },
   {
     "baseLevel": 60,
+    "difficulty": 478,
+    "durability": 35,
+    "id": "30fa318141d",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "cn": "纸屑生产工具",
+      "de": "Konfettiwerkzeug",
+      "en": "Confetti-making Tools",
+      "fr": "Outil de papeterie",
+      "ja": "紙吹雪生産道具",
+      "ko": "Confetti-making Tools"
+    }
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1376,
+    "durability": 70,
+    "id": "02623f930c2",
+    "level": 150,
+    "maxQuality": 1962,
+    "name": {
+      "cn": "常用菜刀的部件",
+      "de": "Messerteil",
+      "en": "Culinary Knife Component",
+      "fr": "Composant de couteau de cuisine",
+      "ja": "愛用の包丁部材",
+      "ko": "Culinary Knife Component"
+    }
+  },
+  {
+    "baseLevel": 60,
     "difficulty": 956,
     "durability": 70,
+    "id": "b3e06c9292c",
     "level": 150,
     "maxQuality": 7851,
     "name": {
@@ -4743,38 +5272,121 @@
   },
   {
     "baseLevel": 60,
+    "difficulty": 1720,
+    "durability": 70,
+    "id": "295eb4752a1",
+    "level": 150,
+    "maxQuality": 3925,
+    "name": {
+      "cn": "太鼓部件",
+      "de": "Trommelwerkstoff",
+      "en": "Drum Parts",
+      "fr": "Composant de taiko",
+      "ja": "太鼓部材",
+      "ko": "Drum Parts"
+    }
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1376,
+    "durability": 70,
+    "id": "903decd1cb5",
+    "level": 150,
+    "maxQuality": 1962,
+    "name": {
+      "cn": "牛毛剪刀部件",
+      "de": "Scherenteil",
+      "en": "Dzo Shear Components",
+      "fr": "Élément d'entretien de ciseaux de toilettage",
+      "ja": "毛刈りハサミ部材",
+      "ko": "Dzo Shear Components"
+    }
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1147,
+    "durability": 70,
+    "id": "88e3a8937d1",
+    "level": 150,
+    "maxQuality": 2904,
+    "name": {
+      "cn": "鲶鱼精人偶部件",
+      "de": "Namazuo-Puppenelement",
+      "en": "Effigy Components",
+      "fr": "Composant de géant d'osier",
+      "ja": "ナマズオ人形部材",
+      "ko": "Effigy Components"
+    }
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 70,
+    "id": "37fa84fb558",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "cn": "绝妙的调配用品",
+      "de": "Destillierapparat-Ersatzteil",
+      "en": "Elixir Mixing Paraphernalia",
+      "fr": "Élément nécessaire à une mixtion",
+      "ja": "素敵な調合用品",
+      "ko": "Elixir Mixing Paraphernalia"
+    }
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1434,
+    "durability": 70,
+    "id": "df2ff871a17",
+    "level": 150,
+    "maxQuality": 5888,
+    "name": {
+      "cn": "谢礼",
+      "de": "Dankeschön-Geschenk",
+      "en": "Generous Gift",
+      "fr": "Cadeau de remerciement",
+      "ja": "感謝の贈答品",
+      "ko": "Generous Gift"
+    }
+  },
+  {
+    "baseLevel": 60,
     "difficulty": 956,
     "durability": 60,
+    "id": "24906672d43",
     "level": 150,
     "maxQuality": 6280,
     "name": {
-      "cn": "Gyr Abanian Souvenir",
+      "cn": "基拉巴尼亚的特产",
       "de": "Abanische Spezialität",
       "en": "Gyr Abanian Souvenir",
       "fr": "Souvenir de Gyr Abania",
       "ja": "ギラバニアの名産品",
-      "ko": "Gyr Abanian Souvenir"
+      "ko": "기라바니아 특산품"
     }
   },
   {
     "baseLevel": 60,
     "difficulty": 478,
     "durability": 60,
+    "id": "bc8a75443a4",
     "level": 150,
     "maxQuality": 3140,
     "name": {
-      "cn": "Gyr Abanian Souvenir Component",
+      "cn": "基拉巴尼亚的特产部件",
       "de": "Komponente eines abanischen Souvenirs",
       "en": "Gyr Abanian Souvenir Component",
       "fr": "Composant de souvenir de Gyr Abania",
       "ja": "ギラバニア名産品部材",
-      "ko": "Gyr Abanian Souvenir Component"
+      "ko": "기라바니아 특산품 부재"
     }
   },
   {
     "baseLevel": 60,
     "difficulty": 956,
     "durability": 60,
+    "id": "0951e048da9",
     "level": 150,
     "maxQuality": 6280,
     "name": {
@@ -4790,6 +5402,7 @@
     "baseLevel": 60,
     "difficulty": 478,
     "durability": 60,
+    "id": "010750dd4e4",
     "level": 150,
     "maxQuality": 3140,
     "name": {
@@ -4803,8 +5416,57 @@
   },
   {
     "baseLevel": 60,
+    "difficulty": 1376,
+    "durability": 70,
+    "id": "9ed66760915",
+    "level": 150,
+    "maxQuality": 1962,
+    "name": {
+      "cn": "魅惑的魔物人偶",
+      "de": "Bezaubernde Korrigane-Puppe",
+      "en": "Korrigan Doll",
+      "fr": "Poupée envoûtante korrigan",
+      "ja": "魅惑の魔物人形",
+      "ko": "Korrigan Doll"
+    }
+  },
+  {
+    "baseLevel": 60,
     "difficulty": 956,
     "durability": 70,
+    "id": "db322c834ed",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "cn": "陆地蹦极用品",
+      "de": "Zubehörteil für ein Naghol-Sprungseil",
+      "en": "Land Diving Gear",
+      "fr": "Composant de système d'attache",
+      "ja": "ナゴール用品",
+      "ko": "Land Diving Gear"
+    }
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1720,
+    "durability": 70,
+    "id": "0115b9c75f0",
+    "level": 150,
+    "maxQuality": 3925,
+    "name": {
+      "cn": "神轿部件",
+      "de": "Mikoshi-Element",
+      "en": "Mikoshi Frippery",
+      "fr": "Composant de mikoshi",
+      "ja": "御輿部材",
+      "ko": "Mikoshi Frippery"
+    }
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 70,
+    "id": "b9778a23a0e",
     "level": 150,
     "maxQuality": 7851,
     "name": {
@@ -4818,8 +5480,57 @@
   },
   {
     "baseLevel": 60,
+    "difficulty": 1376,
+    "durability": 70,
+    "id": "20722bf7aa9",
+    "level": 150,
+    "maxQuality": 1962,
+    "name": {
+      "cn": "投掷用特产",
+      "de": "Festliches Wurfgeschoss",
+      "en": "Pristine Fruit Figurine",
+      "fr": "Répliques de produits régionaux",
+      "ja": "投擲用特産品",
+      "ko": "Pristine Fruit Figurine"
+    }
+  },
+  {
+    "baseLevel": 60,
     "difficulty": 956,
     "durability": 70,
+    "id": "84e5c4b34cc",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "cn": "养马必需品",
+      "de": "Utensil für die Pferdezucht",
+      "en": "Stable Supplies",
+      "fr": "Accessoire d'élevage équin",
+      "ja": "馬番必需品",
+      "ko": "Stable Supplies"
+    }
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 70,
+    "id": "03986099d44",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "cn": "烤鲶鱼用品",
+      "de": "Kochwerkzeug",
+      "en": "Steeping Accessory",
+      "fr": "Composant de cuisine namazu",
+      "ja": "ナマズオ焼き用品",
+      "ko": "Steeping Accessory"
+    }
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 70,
+    "id": "fdebb1e6d97",
     "level": 150,
     "maxQuality": 7851,
     "name": {
@@ -4835,6 +5546,7 @@
     "baseLevel": 60,
     "difficulty": 1116,
     "durability": 70,
+    "id": "9e1bf07dbb4",
     "level": 160,
     "maxQuality": 8377,
     "name": {
@@ -4851,6 +5563,7 @@
     "baseLevel": 60,
     "difficulty": 1116,
     "durability": 70,
+    "id": "b651ee17ce7",
     "level": 160,
     "maxQuality": 8377,
     "name": {
@@ -4867,15 +5580,16 @@
     "baseLevel": 60,
     "difficulty": 1116,
     "durability": 60,
+    "id": "7dda9aa5e68",
     "level": 160,
     "maxQuality": 6701,
     "name": {
-      "cn": "Far Eastern Antique",
+      "cn": "东方风格的收藏品",
       "de": "Fernöstliche Kuriosität",
       "en": "Far Eastern Antique",
       "fr": "Antiquité orientale",
       "ja": "東方風の蒐集品",
-      "ko": "Far Eastern Antique"
+      "ko": "동방풍 소장품"
     },
     "stars": 1
   },
@@ -4883,15 +5597,16 @@
     "baseLevel": 60,
     "difficulty": 558,
     "durability": 60,
+    "id": "006c3bb72f5",
     "level": 160,
     "maxQuality": 3350,
     "name": {
-      "cn": "Far Eastern Antique Component",
+      "cn": "东方风格的收藏品部件",
       "de": "Komponente einer fernöstlichen Antiquität",
       "en": "Far Eastern Antique Component",
       "fr": "Composant d'antiquité orientale",
       "ja": "東方風の蒐集品部材",
-      "ko": "Far Eastern Antique Component"
+      "ko": "동방풍 소장품 부재"
     },
     "stars": 1
   },
@@ -4899,6 +5614,7 @@
     "baseLevel": 60,
     "difficulty": 1116,
     "durability": 70,
+    "id": "d525e48a3ed",
     "level": 160,
     "maxQuality": 8377,
     "name": {
@@ -4915,6 +5631,7 @@
     "baseLevel": 60,
     "difficulty": 1116,
     "durability": 70,
+    "id": "2292b5ff258",
     "level": 160,
     "maxQuality": 8377,
     "name": {
@@ -4931,6 +5648,7 @@
     "baseLevel": 60,
     "difficulty": 2008,
     "durability": 70,
+    "id": "253d6becbd9",
     "level": 160,
     "maxQuality": 4188,
     "name": {
@@ -4947,6 +5665,7 @@
     "baseLevel": 60,
     "difficulty": 1116,
     "durability": 60,
+    "id": "3638f28f53d",
     "level": 160,
     "maxQuality": 6701,
     "name": {
@@ -4963,6 +5682,7 @@
     "baseLevel": 60,
     "difficulty": 558,
     "durability": 60,
+    "id": "d9ec9084931",
     "level": 160,
     "maxQuality": 3350,
     "name": {
@@ -4979,6 +5699,7 @@
     "baseLevel": 60,
     "difficulty": 1116,
     "durability": 70,
+    "id": "8b8b655b73d",
     "level": 160,
     "maxQuality": 8377,
     "name": {
@@ -4995,6 +5716,7 @@
     "baseLevel": 60,
     "difficulty": 1116,
     "durability": 70,
+    "id": "a6dfff05cdd",
     "level": 160,
     "maxQuality": 8377,
     "name": {
@@ -5011,6 +5733,7 @@
     "baseLevel": 60,
     "difficulty": 1116,
     "durability": 70,
+    "id": "729f268d858",
     "level": 160,
     "maxQuality": 8377,
     "name": {
@@ -5027,6 +5750,7 @@
     "baseLevel": 60,
     "difficulty": 1116,
     "durability": 70,
+    "id": "0368cac78b5",
     "level": 160,
     "maxQuality": 8377,
     "name": {
@@ -5043,7 +5767,8 @@
     "baseLevel": 60,
     "difficulty": 1436,
     "durability": 70,
-    "level": 170,
+    "id": "50581898288",
+    "level": 180,
     "maxQuality": 9430,
     "name": {
       "cn": "炖鮟鱇",
@@ -5059,7 +5784,8 @@
     "baseLevel": 60,
     "difficulty": 1436,
     "durability": 70,
-    "level": 170,
+    "id": "27c41844492",
+    "level": 180,
     "maxQuality": 9430,
     "name": {
       "cn": "油封牡蛎",
@@ -5075,7 +5801,8 @@
     "baseLevel": 60,
     "difficulty": 1436,
     "durability": 70,
-    "level": 170,
+    "id": "b822a90fe3c",
+    "level": 180,
     "maxQuality": 9430,
     "name": {
       "cn": "糖沼鯥",
@@ -5091,7 +5818,8 @@
     "baseLevel": 60,
     "difficulty": 1651,
     "durability": 70,
-    "level": 180,
+    "id": "a1f9f5a63b3",
+    "level": 210,
     "maxQuality": 10373,
     "name": {
       "cn": "苹果卷",
@@ -5107,7 +5835,8 @@
     "baseLevel": 60,
     "difficulty": 1651,
     "durability": 70,
-    "level": 180,
+    "id": "12771481ecf",
+    "level": 210,
     "maxQuality": 10373,
     "name": {
       "cn": "山珍番茄面",
@@ -5121,25 +5850,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 1764,
-    "durability": 70,
-    "level": 180,
-    "maxQuality": 11814,
-    "name": {
-      "cn": "苍穹鸡蛋汤",
-      "de": "Himmelseier-Suppe",
-      "en": "Heavensegg Soup",
-      "fr": "Soupe aux célestœufs",
-      "ja": "ヘヴンスエッグスープ",
-      "ko": "창천란 수프"
-    },
-    "stars": 3
-  },
-  {
-    "baseLevel": 60,
     "difficulty": 1651,
     "durability": 70,
-    "level": 180,
+    "id": "4e652767741",
+    "level": 210,
     "maxQuality": 10373,
     "name": {
       "cn": "洛夫坦山羊排",
@@ -5153,25 +5867,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 1764,
-    "durability": 70,
-    "level": 180,
-    "maxQuality": 11814,
-    "name": {
-      "cn": "田园番茄面",
-      "de": "Pasta Ortolano",
-      "en": "Pasta Ortolano",
-      "fr": "Pâtes à la maraîchère",
-      "ja": "オルトラーナ",
-      "ko": "채소 파스타"
-    },
-    "stars": 3
-  },
-  {
-    "baseLevel": 60,
     "difficulty": 1651,
     "durability": 70,
-    "level": 180,
+    "id": "c88de565d7e",
+    "level": 210,
     "maxQuality": 10373,
     "name": {
       "cn": "风味拌细面",
@@ -5187,7 +5886,8 @@
     "baseLevel": 60,
     "difficulty": 1651,
     "durability": 70,
-    "level": 180,
+    "id": "bb58063bdbc",
+    "level": 210,
     "maxQuality": 10373,
     "name": {
       "cn": "果香特饮",
@@ -5201,9 +5901,44 @@
   },
   {
     "baseLevel": 60,
+    "difficulty": 1764,
+    "durability": 70,
+    "id": "9c38f25f34e",
+    "level": 220,
+    "maxQuality": 11814,
+    "name": {
+      "cn": "苍穹鸡蛋汤",
+      "de": "Himmelseier-Suppe",
+      "en": "Heavensegg Soup",
+      "fr": "Soupe aux célestœufs",
+      "ja": "ヘヴンスエッグスープ",
+      "ko": "창천란 수프"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1764,
+    "durability": 70,
+    "id": "d5b3d0104aa",
+    "level": 220,
+    "maxQuality": 11814,
+    "name": {
+      "cn": "田园番茄面",
+      "de": "Pasta Ortolano",
+      "en": "Pasta Ortolano",
+      "fr": "Pâtes à la maraîchère",
+      "ja": "オルトラーナ",
+      "ko": "채소 파스타"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 60,
     "difficulty": 1968,
     "durability": 70,
-    "level": 190,
+    "id": "efabdedc728",
+    "level": 250,
     "maxQuality": 13187,
     "name": {
       "cn": "苹果芙纽多",
@@ -5219,7 +5954,8 @@
     "baseLevel": 60,
     "difficulty": 1968,
     "durability": 70,
-    "level": 190,
+    "id": "7ad39c544b6",
+    "level": 250,
     "maxQuality": 13187,
     "name": {
       "cn": "苍穹蛋奶酒",
@@ -5235,7 +5971,8 @@
     "baseLevel": 60,
     "difficulty": 1968,
     "durability": 70,
-    "level": 190,
+    "id": "55cf10c93d9",
+    "level": 250,
     "maxQuality": 13187,
     "name": {
       "cn": "蓝带肉排",
@@ -5251,7 +5988,8 @@
     "baseLevel": 60,
     "difficulty": 1968,
     "durability": 70,
-    "level": 190,
+    "id": "96f191cca0b",
+    "level": 250,
     "maxQuality": 13187,
     "name": {
       "cn": "祭司蛋包饭",
@@ -5267,7 +6005,8 @@
     "baseLevel": 60,
     "difficulty": 1968,
     "durability": 70,
-    "level": 190,
+    "id": "c9d78580624",
+    "level": 250,
     "maxQuality": 13187,
     "name": {
       "cn": "烟肉蛋酱拌面",
@@ -5283,7 +6022,8 @@
     "baseLevel": 60,
     "difficulty": 1968,
     "durability": 70,
-    "level": 190,
+    "id": "53022bf2c76",
+    "level": 250,
     "maxQuality": 13187,
     "name": {
       "cn": "海鲜拌面",
@@ -5299,7 +6039,8 @@
     "baseLevel": 60,
     "difficulty": 1968,
     "durability": 70,
-    "level": 190,
+    "id": "b12110e1306",
+    "level": 250,
     "maxQuality": 13187,
     "name": {
       "cn": "嫩炒蛋",
@@ -5315,36 +6056,39 @@
     "baseLevel": 61,
     "difficulty": 1116,
     "durability": 60,
+    "id": "adbd2f38f7b",
     "level": 255,
     "maxQuality": 6701,
     "name": {
-      "cn": "Gold Saucer Consolation Prize",
+      "cn": "金碟游乐场的纪念品",
       "de": "Trostpreis für den Gold Saucer",
       "en": "Gold Saucer Consolation Prize",
       "fr": "Lot de consolation du Gold Saucer",
       "ja": "ゴールドソーサーの景品",
-      "ko": "Gold Saucer Consolation Prize"
+      "ko": "골드 소서 경품"
     }
   },
   {
     "baseLevel": 61,
     "difficulty": 558,
     "durability": 60,
+    "id": "68e3468f60f",
     "level": 255,
     "maxQuality": 3350,
     "name": {
-      "cn": "Gold Saucer Consolation Prize Component",
+      "cn": "金碟游乐场的纪念品部件",
       "de": "Komponente eines Gold Saucer-Trostpreises",
       "en": "Gold Saucer Consolation Prize Component",
       "fr": "Composant de lot de consolation du Gold Saucer",
       "ja": "ゴールドソーサーの景品部材",
-      "ko": "Gold Saucer Consolation Prize Component"
+      "ko": "골드 소서 경품 부재"
     }
   },
   {
     "baseLevel": 61,
     "difficulty": 558,
     "durability": 40,
+    "id": "2c803f07109",
     "level": 255,
     "maxQuality": 8377,
     "name": {
@@ -5360,6 +6104,7 @@
     "baseLevel": 61,
     "difficulty": 1400,
     "durability": 80,
+    "id": "6bfba32c6b9",
     "level": 260,
     "maxQuality": 9065,
     "name": {
@@ -5375,6 +6120,7 @@
     "baseLevel": 61,
     "difficulty": 1400,
     "durability": 80,
+    "id": "44e5c4654a4",
     "level": 260,
     "maxQuality": 9065,
     "name": {
@@ -5390,6 +6136,7 @@
     "baseLevel": 62,
     "difficulty": 842,
     "durability": 40,
+    "id": "909cb1a0e24",
     "level": 265,
     "maxQuality": 9752,
     "name": {
@@ -5404,7 +6151,24 @@
   {
     "baseLevel": 62,
     "difficulty": 1684,
+    "durability": 60,
+    "id": "39d3b91a6b9",
+    "level": 265,
+    "maxQuality": 7801,
+    "name": {
+      "cn": "防鲨用品",
+      "de": "Haifischharpune",
+      "en": "Anti-shark Harpoon",
+      "fr": "Harpon anti-requin",
+      "ja": "サメ対策用品",
+      "ko": "Anti-shark Harpoon"
+    }
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 1684,
     "durability": 80,
+    "id": "26483da2aa7",
     "level": 265,
     "maxQuality": 9752,
     "name": {
@@ -5420,6 +6184,7 @@
     "baseLevel": 62,
     "difficulty": 1684,
     "durability": 80,
+    "id": "0f383681cff",
     "level": 265,
     "maxQuality": 9752,
     "name": {
@@ -5434,7 +6199,56 @@
   {
     "baseLevel": 62,
     "difficulty": 1684,
+    "durability": 60,
+    "id": "84c3ec72446",
+    "level": 265,
+    "maxQuality": 7801,
+    "name": {
+      "cn": "基拉巴尼亚医药品",
+      "de": "Phiolenset abanischer Medizin",
+      "en": "Gyr Abanian Remedies",
+      "fr": "Remèdes gyrabaniens",
+      "ja": "ギラバニア医薬品",
+      "ko": "Gyr Abanian Remedies"
+    }
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 842,
+    "durability": 60,
+    "id": "1594c780888",
+    "level": 265,
+    "maxQuality": 3900,
+    "name": {
+      "cn": "基拉巴尼亚医药品部件",
+      "de": "Komponente abanischer Medizin",
+      "en": "Gyr Abanian Remedy Components",
+      "fr": "Composants pour remèdes gyrabaniens",
+      "ja": "ギラバニア医薬品部材",
+      "ko": "Gyr Abanian Remedy Components"
+    }
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 842,
+    "durability": 60,
+    "id": "3845ecba812",
+    "level": 265,
+    "maxQuality": 3900,
+    "name": {
+      "cn": "防鲨用品部件",
+      "de": "Komponente einer Haifischharpune",
+      "en": "Harpoon Components",
+      "fr": "Composants pour harpon anti-requin",
+      "ja": "サメ対策用品部材",
+      "ko": "Harpoon Components"
+    }
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 1684,
     "durability": 80,
+    "id": "66d785c3241",
     "level": 265,
     "maxQuality": 9752,
     "name": {
@@ -5450,36 +6264,71 @@
     "baseLevel": 62,
     "difficulty": 1684,
     "durability": 60,
+    "id": "08b3d818ce0",
     "level": 265,
     "maxQuality": 7801,
     "name": {
-      "cn": "M Tribe Sundries",
+      "cn": "梅氏一族的日用品",
       "de": "Jagdbedarf",
       "en": "M Tribe Sundries",
       "fr": "Produits du quotidien des M",
       "ja": "メ族の日用品",
-      "ko": "M Tribe Sundries"
+      "ko": "메씨족 일용품"
     }
   },
   {
     "baseLevel": 62,
     "difficulty": 842,
     "durability": 60,
+    "id": "a6ea3ea4759",
     "level": 265,
     "maxQuality": 3900,
     "name": {
-      "cn": "M Tribe Sundry Component",
+      "cn": "梅氏一族的日用品部件",
       "de": "Komponente eines Gebrauchsgegenstands der M",
       "en": "M Tribe Sundry Component",
       "fr": "Composant de produits du quotidien des M",
       "ja": "メ族の日用品部材",
-      "ko": "M Tribe Sundry Component"
+      "ko": "메씨족 일용품 부재"
+    }
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 1968,
+    "durability": 60,
+    "id": "350c80a20ec",
+    "level": 270,
+    "maxQuality": 8351,
+    "name": {
+      "cn": "库尔札斯防寒用品",
+      "de": "Coerthischer Wintermantel",
+      "en": "Coerthan Cold-weather Gear",
+      "fr": "Vêtements chauds du Coerthas",
+      "ja": "クルザス防寒品",
+      "ko": "Coerthan Cold-weather Gear"
+    }
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 984,
+    "durability": 60,
+    "id": "06796154bfd",
+    "level": 270,
+    "maxQuality": 4175,
+    "name": {
+      "cn": "库尔札斯防寒用品部件",
+      "de": "Komponente coerthischer Winterkleidung",
+      "en": "Cold-weather Gear Components",
+      "fr": "Composants pour vêtements chauds du Coerthas",
+      "ja": "クルザス防寒品部材",
+      "ko": "Cold-weather Gear Components"
     }
   },
   {
     "baseLevel": 63,
     "difficulty": 984,
     "durability": 40,
+    "id": "17bbbb55c3f",
     "level": 270,
     "maxQuality": 10439,
     "name": {
@@ -5495,6 +6344,7 @@
     "baseLevel": 63,
     "difficulty": 1377,
     "durability": 80,
+    "id": "39a6c5d1c60",
     "level": 270,
     "maxQuality": 5741,
     "name": {
@@ -5510,6 +6360,7 @@
     "baseLevel": 63,
     "difficulty": 1968,
     "durability": 80,
+    "id": "60470f5df98",
     "level": 270,
     "maxQuality": 10439,
     "name": {
@@ -5525,6 +6376,7 @@
     "baseLevel": 63,
     "difficulty": 1968,
     "durability": 80,
+    "id": "78bf3b42bcd",
     "level": 270,
     "maxQuality": 10439,
     "name": {
@@ -5540,36 +6392,71 @@
     "baseLevel": 63,
     "difficulty": 1968,
     "durability": 60,
+    "id": "9378a4c4ab5",
     "level": 270,
     "maxQuality": 8351,
     "name": {
-      "cn": "Resistance Materiel",
+      "cn": "解放军的军需品",
       "de": "Rucksack für die Befreiungsarmee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品",
-      "ko": "Resistance Materiel"
+      "ko": "해방군 군수품"
     }
   },
   {
     "baseLevel": 63,
     "difficulty": 984,
     "durability": 60,
+    "id": "530e988868b",
     "level": 270,
     "maxQuality": 4175,
     "name": {
-      "cn": "Resistance Materiel Component",
+      "cn": "解放军的军需品部件",
       "de": "Komponente eines Stücks Befreiungsarmee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材",
-      "ko": "Resistance Materiel Component"
+      "ko": "해방군 군수품 부재"
+    }
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 1968,
+    "durability": 60,
+    "id": "0435fd0ff07",
+    "level": 270,
+    "maxQuality": 8351,
+    "name": {
+      "cn": "翠水乡特产",
+      "de": "Kostbarkeit aus Sui no Sato",
+      "en": "Sui-no-Sato Special",
+      "fr": "Spécialité de Sui-no-Sato",
+      "ja": "スイ特産品",
+      "ko": "Sui-no-Sato Special"
+    }
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 984,
+    "durability": 60,
+    "id": "4f7c03105ea",
+    "level": 270,
+    "maxQuality": 4175,
+    "name": {
+      "cn": "翠水乡特产部件",
+      "de": "Komponente einer Kostbarkeit aus Sui no Sato",
+      "en": "Sui-no-Sato Special Components",
+      "fr": "Composants pour spécialité de Sui-no-Sato",
+      "ja": "スイ特産品部材",
+      "ko": "Sui-no-Sato Special Components"
     }
   },
   {
     "baseLevel": 64,
     "difficulty": 1058,
     "durability": 40,
+    "id": "63e2ef929fe",
     "level": 273,
     "maxQuality": 10851,
     "name": {
@@ -5584,7 +6471,40 @@
   {
     "baseLevel": 64,
     "difficulty": 2116,
+    "durability": 60,
+    "id": "e591efa48be",
+    "level": 273,
+    "maxQuality": 8680,
+    "name": {
+      "cn": "云海珍宝",
+      "de": "Wolkenmeerperle",
+      "en": "Cloud Pearl",
+      "fr": "Rareté de la Mer de nuages",
+      "ja": "雲海の珍宝",
+      "ko": "Cloud Pearl"
+    }
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 1058,
+    "durability": 60,
+    "id": "9bdca8d131a",
+    "level": 273,
+    "maxQuality": 4340,
+    "name": {
+      "cn": "云海珍宝部件",
+      "de": "Komponente einer Wolkenmeerperle",
+      "en": "Cloud Pearl Components",
+      "fr": "Composants pour rareté de la Mer de nuages",
+      "ja": "雲海の珍宝部材",
+      "ko": "Cloud Pearl Components"
+    }
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 2116,
     "durability": 80,
+    "id": "4075976479f",
     "level": 273,
     "maxQuality": 10851,
     "name": {
@@ -5600,6 +6520,7 @@
     "baseLevel": 64,
     "difficulty": 1058,
     "durability": 40,
+    "id": "61ed2874bcf",
     "level": 273,
     "maxQuality": 10851,
     "name": {
@@ -5615,6 +6536,7 @@
     "baseLevel": 64,
     "difficulty": 2116,
     "durability": 80,
+    "id": "ba0265e47a1",
     "level": 273,
     "maxQuality": 10851,
     "name": {
@@ -5630,6 +6552,7 @@
     "baseLevel": 64,
     "difficulty": 3808,
     "durability": 80,
+    "id": "2b18b018855",
     "level": 273,
     "maxQuality": 5425,
     "name": {
@@ -5645,6 +6568,7 @@
     "baseLevel": 65,
     "difficulty": 1584,
     "durability": 80,
+    "id": "14145001e8f",
     "level": 276,
     "maxQuality": 6194,
     "name": {
@@ -5660,6 +6584,7 @@
     "baseLevel": 65,
     "difficulty": 2264,
     "durability": 80,
+    "id": "cbf8240cc77",
     "level": 276,
     "maxQuality": 11263,
     "name": {
@@ -5675,6 +6600,7 @@
     "baseLevel": 65,
     "difficulty": 4075,
     "durability": 80,
+    "id": "978a5af25f2",
     "level": 276,
     "maxQuality": 5631,
     "name": {
@@ -5690,6 +6616,7 @@
     "baseLevel": 65,
     "difficulty": 4075,
     "durability": 80,
+    "id": "9dade2626b6",
     "level": 276,
     "maxQuality": 5631,
     "name": {
@@ -5705,6 +6632,7 @@
     "baseLevel": 65,
     "difficulty": 1132,
     "durability": 40,
+    "id": "c45da3fdacd",
     "level": 276,
     "maxQuality": 11263,
     "name": {
@@ -5720,6 +6648,7 @@
     "baseLevel": 65,
     "difficulty": 2264,
     "durability": 80,
+    "id": "38fc306bc98",
     "level": 276,
     "maxQuality": 11263,
     "name": {
@@ -5735,6 +6664,7 @@
     "baseLevel": 65,
     "difficulty": 2264,
     "durability": 80,
+    "id": "4b7875eeddf",
     "level": 276,
     "maxQuality": 11263,
     "name": {
@@ -5749,7 +6679,72 @@
   {
     "baseLevel": 66,
     "difficulty": 2411,
+    "durability": 60,
+    "id": "b82595f2379",
+    "level": 279,
+    "maxQuality": 9340,
+    "name": {
+      "cn": "崖畔亭蒸馏酒必需品",
+      "de": "Spirituosenzubehörteil",
+      "en": "Fermented Juice",
+      "fr": "Composant pour eau-de-vie du Bord du gouffre",
+      "ja": "崖っぷち蒸留酒必需品",
+      "ko": "Fermented Juice"
+    }
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 2411,
+    "durability": 60,
+    "id": "b91ad49fef8",
+    "level": 279,
+    "maxQuality": 9340,
+    "name": {
+      "cn": "伊修加德菜肴必需品",
+      "de": "Ishgarder Kochutensil",
+      "en": "Ishgardian Culinary Essentials",
+      "fr": "Composant pour recette ishgardaise",
+      "ja": "イシュガルド料理必需品",
+      "ko": "Ishgardian Culinary Essentials"
+    }
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 1205,
+    "durability": 60,
+    "id": "b73e1525742",
+    "level": 279,
+    "maxQuality": 4670,
+    "name": {
+      "cn": "伊修加德菜肴必需品的部件",
+      "de": "Ishgarder Kochutensil-Komponente",
+      "en": "Ishgardian Culinary Materials",
+      "fr": "Matériaux raffinés pour composant de recette ishgardaise",
+      "ja": "イシュガルド料理必需品部材",
+      "ko": "Ishgardian Culinary Materials"
+    }
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 1205,
+    "durability": 60,
+    "id": "5767ed6d81b",
+    "level": 279,
+    "maxQuality": 4670,
+    "name": {
+      "cn": "崖畔亭蒸馏酒必需品的部件",
+      "de": "Komponente eines Spirituosenzubehörteils",
+      "en": "Juice Fermenting Supplies",
+      "fr": "Matériaux raffinés pour composant pour eau-de-vie du Bord du gouffre",
+      "ja": "崖っぷち蒸留酒必需品部材",
+      "ko": "Juice Fermenting Supplies"
+    }
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 2411,
     "durability": 80,
+    "id": "5eb58eddae3",
     "level": 279,
     "maxQuality": 11676,
     "name": {
@@ -5765,6 +6760,7 @@
     "baseLevel": 66,
     "difficulty": 4339,
     "durability": 80,
+    "id": "3cc36601612",
     "level": 279,
     "maxQuality": 5838,
     "name": {
@@ -5780,6 +6776,7 @@
     "baseLevel": 66,
     "difficulty": 2411,
     "durability": 80,
+    "id": "e398da70c88",
     "level": 279,
     "maxQuality": 11676,
     "name": {
@@ -5795,6 +6792,7 @@
     "baseLevel": 66,
     "difficulty": 2411,
     "durability": 80,
+    "id": "042d51bc5b7",
     "level": 279,
     "maxQuality": 11676,
     "name": {
@@ -5810,6 +6808,7 @@
     "baseLevel": 66,
     "difficulty": 2411,
     "durability": 80,
+    "id": "218e2c276f0",
     "level": 279,
     "maxQuality": 11676,
     "name": {
@@ -5823,8 +6822,25 @@
   },
   {
     "baseLevel": 67,
+    "difficulty": 1279,
+    "durability": 60,
+    "id": "377413280b7",
+    "level": 282,
+    "maxQuality": 4835,
+    "name": {
+      "cn": "崖畔亭备用品的部件",
+      "de": "Komponente eines Klippenhänger-Einrichtungsgegenstands",
+      "en": "Decorative Tavern Furnishing Materials",
+      "fr": "Matériaux raffinés pour pièce décorative du Bord du gouffre",
+      "ja": "崖っぷち亭の備品部材",
+      "ko": "Decorative Tavern Furnishing Materials"
+    }
+  },
+  {
+    "baseLevel": 67,
     "difficulty": 2559,
     "durability": 80,
+    "id": "f71d83754cc",
     "level": 282,
     "maxQuality": 12088,
     "name": {
@@ -5840,6 +6856,7 @@
     "baseLevel": 67,
     "difficulty": 2559,
     "durability": 80,
+    "id": "0ea737a00f2",
     "level": 282,
     "maxQuality": 12088,
     "name": {
@@ -5854,7 +6871,24 @@
   {
     "baseLevel": 67,
     "difficulty": 2559,
+    "durability": 60,
+    "id": "6cc452f77f4",
+    "level": 282,
+    "maxQuality": 9670,
+    "name": {
+      "cn": "崖畔亭的备用品",
+      "de": "Klippenhänger-Einrichtungsgegenstand",
+      "en": "Hard Place Decorative Furnishings",
+      "fr": "Pièce décorative du Bord du gouffre",
+      "ja": "崖っぷち亭の備品",
+      "ko": "Hard Place Decorative Furnishings"
+    }
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 2559,
     "durability": 80,
+    "id": "ee69513bfd5",
     "level": 282,
     "maxQuality": 12088,
     "name": {
@@ -5867,9 +6901,74 @@
     }
   },
   {
+    "baseLevel": 67,
+    "difficulty": 2559,
+    "durability": 60,
+    "id": "c9824d0c561",
+    "level": 282,
+    "maxQuality": 9670,
+    "name": {
+      "cn": "崖畔亭包子必需品",
+      "de": "Buuds-Kochutensil",
+      "en": "Signature Buuz Cookware",
+      "fr": "Composant pour buuz du Bord du gouffre",
+      "ja": "崖っぷちボーズ必需品",
+      "ko": "Signature Buuz Cookware"
+    }
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 1279,
+    "durability": 60,
+    "id": "2b2002a75cb",
+    "level": 282,
+    "maxQuality": 4835,
+    "name": {
+      "cn": "崖畔亭包子必需品的部件",
+      "de": "Komponente eines Buuds-Kochutensils",
+      "en": "Signature Buuz Cookware Materials",
+      "fr": "Matériaux raffinés pour composant pour buuz du Bord du gouffre",
+      "ja": "崖っぷちボーズ必需品部材",
+      "ko": "Signature Buuz Cookware Materials"
+    }
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 2706,
+    "durability": 60,
+    "id": "c1a3f033a6d",
+    "level": 285,
+    "maxQuality": 10000,
+    "name": {
+      "cn": "酿造奶酒的必需品",
+      "de": "Arkhi-Destillierutensil",
+      "en": "Arkhi Brewing Set",
+      "fr": "Composant pour arkhi du Bord du gouffre",
+      "ja": "アルヒ醸造必需品",
+      "ko": "Arkhi Brewing Set"
+    }
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 1353,
+    "durability": 60,
+    "id": "a3a21503397",
+    "level": 285,
+    "maxQuality": 5000,
+    "name": {
+      "cn": "酿造奶酒必需品的部件",
+      "de": "Komponente eines Arkhi-Destillierutensils",
+      "en": "Arkhi Brewing Vat Materials",
+      "fr": "Matériaux raffinés pour composant pour arkhi du Bord du gouffre",
+      "ja": "アルヒ醸造必需品部材",
+      "ko": "Arkhi Brewing Vat Materials"
+    }
+  },
+  {
     "baseLevel": 68,
     "difficulty": 2706,
     "durability": 80,
+    "id": "60d20c20acc",
     "level": 285,
     "maxQuality": 12500,
     "name": {
@@ -5885,6 +6984,7 @@
     "baseLevel": 68,
     "difficulty": 2706,
     "durability": 80,
+    "id": "7a56f677852",
     "level": 285,
     "maxQuality": 12500,
     "name": {
@@ -5900,6 +7000,7 @@
     "baseLevel": 68,
     "difficulty": 1894,
     "durability": 80,
+    "id": "ac19a8af69f",
     "level": 285,
     "maxQuality": 6875,
     "name": {
@@ -5915,6 +7016,7 @@
     "baseLevel": 68,
     "difficulty": 2706,
     "durability": 80,
+    "id": "5bc70348189",
     "level": 285,
     "maxQuality": 12500,
     "name": {
@@ -5928,8 +7030,25 @@
   },
   {
     "baseLevel": 69,
+    "difficulty": 5137,
+    "durability": 80,
+    "id": "a80fe98f44c",
+    "level": 288,
+    "maxQuality": 6456,
+    "name": {
+      "cn": "面包篮",
+      "de": "Brotkorb",
+      "en": "Bread Basket",
+      "fr": "Panier de pains divers",
+      "ja": "ブレッドバスケット",
+      "ko": "Bread Basket"
+    }
+  },
+  {
+    "baseLevel": 69,
     "difficulty": 2854,
     "durability": 80,
+    "id": "596510d86e3",
     "level": 288,
     "maxQuality": 12913,
     "name": {
@@ -5945,6 +7064,7 @@
     "baseLevel": 69,
     "difficulty": 2854,
     "durability": 80,
+    "id": "d918084eeaf",
     "level": 288,
     "maxQuality": 12913,
     "name": {
@@ -5960,6 +7080,7 @@
     "baseLevel": 69,
     "difficulty": 2854,
     "durability": 80,
+    "id": "25a041a891d",
     "level": 288,
     "maxQuality": 12913,
     "name": {
@@ -5975,6 +7096,7 @@
     "baseLevel": 70,
     "difficulty": 2066,
     "durability": 80,
+    "id": "296875354ed",
     "level": 290,
     "maxQuality": 7252,
     "name": {
@@ -5988,8 +7110,25 @@
   },
   {
     "baseLevel": 70,
+    "difficulty": 2066,
+    "durability": 80,
+    "id": "dedd55ea121",
+    "level": 290,
+    "maxQuality": 7252,
+    "name": {
+      "cn": "Edible Antidote",
+      "de": "Entgiftende Brühe",
+      "en": "Edible Antidote",
+      "fr": "Bouillon antidotique",
+      "ja": "解毒の薬餌",
+      "ko": "Edible Antidote"
+    }
+  },
+  {
+    "baseLevel": 70,
     "difficulty": 2952,
     "durability": 80,
+    "id": "d9b341e76e1",
     "level": 290,
     "maxQuality": 13187,
     "name": {
@@ -6005,6 +7144,7 @@
     "baseLevel": 70,
     "difficulty": 2952,
     "durability": 80,
+    "id": "fd759b23a62",
     "level": 290,
     "maxQuality": 13187,
     "name": {
@@ -6020,6 +7160,7 @@
     "baseLevel": 70,
     "difficulty": 2952,
     "durability": 80,
+    "id": "c7b2bd171a5",
     "level": 290,
     "maxQuality": 13187,
     "name": {
@@ -6035,6 +7176,7 @@
     "baseLevel": 70,
     "difficulty": 3149,
     "durability": 70,
+    "id": "73d6ee69d4d",
     "level": 300,
     "maxQuality": 14071,
     "name": {
@@ -6051,6 +7193,7 @@
     "baseLevel": 70,
     "difficulty": 3149,
     "durability": 70,
+    "id": "eb431c9f22e",
     "level": 300,
     "maxQuality": 14071,
     "name": {
@@ -6067,15 +7210,16 @@
     "baseLevel": 70,
     "difficulty": 3543,
     "durability": 70,
+    "id": "90caa85b0a2",
     "level": 320,
     "maxQuality": 15837,
     "name": {
-      "cn": "Chawan-mushi",
+      "cn": "蒸蛋羹",
       "de": "Hinganische Eierspeise",
       "en": "Chawan-mushi",
       "fr": "Flan oriental",
       "ja": "茶碗蒸し",
-      "ko": "Chawan-mushi"
+      "ko": "달걀찜"
     },
     "stars": 2
   },
@@ -6083,15 +7227,16 @@
     "baseLevel": 70,
     "difficulty": 3543,
     "durability": 70,
+    "id": "2d2612b87be",
     "level": 320,
     "maxQuality": 15837,
     "name": {
-      "cn": "Pork Kakuni",
+      "cn": "炖猪肉",
       "de": "Kakuni",
       "en": "Pork Kakuni",
       "fr": "Porc braisé à l'orientale",
       "ja": "豚角煮",
-      "ko": "Pork Kakuni"
+      "ko": "돼지고기 조림"
     },
     "stars": 2
   },
@@ -6099,15 +7244,16 @@
     "baseLevel": 70,
     "difficulty": 3543,
     "durability": 70,
+    "id": "e188dd826aa",
     "level": 320,
     "maxQuality": 15837,
     "name": {
-      "cn": "Pork Stew",
+      "cn": "猪肉酱汤",
       "de": "Schweinefleischeintopf",
       "en": "Pork Stew",
       "fr": "Bouillon de porc",
       "ja": "豚汁",
-      "ko": "Pork Stew"
+      "ko": "돼지고기 된장국"
     },
     "stars": 2
   },
@@ -6115,15 +7261,16 @@
     "baseLevel": 70,
     "difficulty": 3543,
     "durability": 70,
+    "id": "ead5983c956",
     "level": 320,
     "maxQuality": 15837,
     "name": {
-      "cn": "Sermon-worthy Meuniere",
+      "cn": "王室鲑鱼排",
       "de": "Othardischer Lachs nach Müllerinart",
       "en": "Sermon-worthy Meuniere",
       "fr": "Saumon seigneurial meunière",
       "ja": "御鮭様のムニエル",
-      "ko": "Sermon-worthy Meuniere"
+      "ko": "연어님 구이"
     },
     "stars": 2
   },
@@ -6131,16 +7278,979 @@
     "baseLevel": 70,
     "difficulty": 3543,
     "durability": 70,
+    "id": "067bd7548d0",
     "level": 320,
     "maxQuality": 15837,
     "name": {
-      "cn": "Steppe Tea",
+      "cn": "草原奶茶",
       "de": "Steppen-Tee",
       "en": "Steppe Tea",
       "fr": "Thé de la Steppe",
       "ja": "ステップティー",
-      "ko": "Steppe Tea"
+      "ko": "초원 밀크티"
     },
     "stars": 2
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "3987bc93bcf",
+    "level": 350,
+    "maxQuality": 16638,
+    "name": {
+      "cn": "纳夏煎饼",
+      "de": "Banh Xeo",
+      "en": "Banh Xeo",
+      "fr": "Banh xeo",
+      "ja": "バインセオ",
+      "ko": "Banh Xeo"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "653ca63b9a3",
+    "level": 350,
+    "maxQuality": 16638,
+    "name": {
+      "cn": "红莲特饮",
+      "de": "Purpur-Apfelsaft",
+      "en": "Crimson Cider",
+      "fr": "Cidre carmin",
+      "ja": "クリムゾンサイダー",
+      "ko": "Crimson Cider"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "af89ae0f8ff",
+    "level": 350,
+    "maxQuality": 16638,
+    "name": {
+      "cn": "犏牛肉排",
+      "de": "Dzo-Steak",
+      "en": "Dzo Steak",
+      "fr": "Steak de hainag",
+      "ja": "ケナガウシステーキ",
+      "ko": "Dzo Steak"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "135a360b637",
+    "level": 350,
+    "maxQuality": 16638,
+    "name": {
+      "cn": "辣椒焗奶酪",
+      "de": "Ema Datshi",
+      "en": "Ema Datshi",
+      "fr": "Ema datshi",
+      "ja": "エマダツィ",
+      "ko": "Ema Datshi"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "b79c2298b2e",
+    "level": 350,
+    "maxQuality": 16638,
+    "name": {
+      "cn": "什锦寿司卷",
+      "de": "Futomaki-Rolle",
+      "en": "Futo-maki Roll",
+      "fr": "Futomaki-zushi",
+      "ja": "太巻き寿司",
+      "ko": "Futo-maki Roll"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "79427f0d115",
+    "level": 350,
+    "maxQuality": 16638,
+    "name": {
+      "cn": "金平糖",
+      "de": "Konpeito",
+      "en": "Konpeito",
+      "fr": "Konpeitô",
+      "ja": "金平糖",
+      "ko": "Konpeito"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "feded5cc244",
+    "level": 350,
+    "maxQuality": 16638,
+    "name": {
+      "cn": "抹茶",
+      "de": "Matcha-Tee",
+      "en": "Matcha",
+      "fr": "Matcha",
+      "ja": "抹茶",
+      "ko": "Matcha"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "eed42f9af1f",
+    "level": 350,
+    "maxQuality": 16638,
+    "name": {
+      "cn": "炖点",
+      "de": "Oden",
+      "en": "Oden",
+      "fr": "Oden",
+      "ja": "おでん",
+      "ko": "Oden"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "8c3ed876d20",
+    "level": 350,
+    "maxQuality": 16638,
+    "name": {
+      "cn": "煎绿韭葱",
+      "de": "Gebratener Lauch",
+      "en": "Sauteed Green Leeks",
+      "fr": "Sauté de poireaux gyrabaniens",
+      "ja": "グリーンリーキソテー",
+      "ko": "Sauteed Green Leeks"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "71b13397719",
+    "level": 350,
+    "maxQuality": 16638,
+    "name": {
+      "cn": "章鱼烧",
+      "de": "Takoyaki",
+      "en": "Tako-yaki",
+      "fr": "Takoyaki",
+      "ja": "タコ焼き",
+      "ko": "Tako-yaki"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "c958cf439df",
+    "level": 350,
+    "maxQuality": 16638,
+    "name": {
+      "cn": "豆腐煎饼",
+      "de": "Tofu-Pfannkuchen",
+      "en": "Tofu Pancakes",
+      "fr": "Pancake au tôfu",
+      "ja": "豆腐パンケーキ",
+      "ko": "Tofu Pancakes"
+    },
+    "stars": 3
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2900,
+    "durability": 70,
+    "id": "78df70e292f",
+    "level": 380,
+    "maxQuality": 19023,
+    "name": {
+      "cn": "生姜沙拉",
+      "de": "Ingwersalat",
+      "en": "Ginger Salad",
+      "fr": "Salade au gingembre",
+      "ja": "ジンジャーサラダ",
+      "ko": "Ginger Salad"
+    },
+    "stars": 4
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2900,
+    "durability": 70,
+    "id": "28ea0dc9a95",
+    "level": 380,
+    "maxQuality": 19023,
+    "name": {
+      "cn": "烤茄子",
+      "de": "Patlican Imam Bayildi",
+      "en": "Imam Bayildi",
+      "fr": "Patlican imam bayildi",
+      "ja": "パトゥルジャン・イマム・バユルドゥ",
+      "ko": "Imam Bayildi"
+    },
+    "stars": 4
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2900,
+    "durability": 70,
+    "id": "b2599e4049c",
+    "level": 380,
+    "maxQuality": 19023,
+    "name": {
+      "cn": "拉条子",
+      "de": "Laghman",
+      "en": "Laghman",
+      "fr": "Laghman",
+      "ja": "ラグマン",
+      "ko": "Laghman"
+    },
+    "stars": 4
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2900,
+    "durability": 70,
+    "id": "c5ebd1f1b91",
+    "level": 380,
+    "maxQuality": 19023,
+    "name": {
+      "cn": "奶酪甜甜圈",
+      "de": "Papanasi",
+      "en": "Papanasi",
+      "fr": "Papanasi",
+      "ja": "パパナッシュ",
+      "ko": "Papanasi"
+    },
+    "stars": 4
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2900,
+    "durability": 70,
+    "id": "420b0ec8049",
+    "level": 380,
+    "maxQuality": 19023,
+    "name": {
+      "cn": "路易波士红茶",
+      "de": "Rooibos-Tee",
+      "en": "Rooibos Tea",
+      "fr": "Thé rooibos",
+      "ja": "ルイボスティー",
+      "ko": "Rooibos Tea"
+    },
+    "stars": 4
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2900,
+    "durability": 70,
+    "id": "4ffa2f4f426",
+    "level": 380,
+    "maxQuality": 19023,
+    "name": {
+      "cn": "鲑鱼松饼",
+      "de": "Lachs-Muffin",
+      "en": "Salmon Muffin",
+      "fr": "Muffin au saumon",
+      "ja": "サーモンマフィン",
+      "ko": "Salmon Muffin"
+    },
+    "stars": 4
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2900,
+    "durability": 70,
+    "id": "1906362338b",
+    "level": 380,
+    "maxQuality": 19023,
+    "name": {
+      "cn": "番茄炖蛋",
+      "de": "Shakshouka",
+      "en": "Shakshouka",
+      "fr": "Chakchouka",
+      "ja": "シャクシュカ",
+      "ko": "Shakshouka"
+    },
+    "stars": 4
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1574,
+    "durability": 40,
+    "id": "0ec81dc781b",
+    "level": 390,
+    "maxQuality": 14071,
+    "name": {
+      "cn": "Frantoio Oil",
+      "de": "Frantoio-Öl",
+      "en": "Frantoio Oil",
+      "fr": "Huile de frantoio",
+      "ja": "フラントーヨオイル",
+      "ko": "Frantoio Oil"
+    }
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 3149,
+    "durability": 80,
+    "id": "2b8f13e2d51",
+    "level": 390,
+    "maxQuality": 14071,
+    "name": {
+      "cn": "Grilled Rail",
+      "de": "Gegrillte Ralle",
+      "en": "Grilled Rail",
+      "fr": "Tranche de râle grillée",
+      "ja": "レイルのグリル",
+      "ko": "Grilled Rail"
+    }
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 3149,
+    "durability": 80,
+    "id": "b17c92939a2",
+    "level": 390,
+    "maxQuality": 14071,
+    "name": {
+      "cn": "Purple Carrot Juice",
+      "de": "Purpurkarottensaft",
+      "en": "Purple Carrot Juice",
+      "fr": "Jus de carotte violette",
+      "ja": "パープルカロットジュース",
+      "ko": "Purple Carrot Juice"
+    }
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 3248,
+    "durability": 80,
+    "id": "d63727da929",
+    "level": 395,
+    "maxQuality": 14848,
+    "name": {
+      "cn": "Broad Bean Soup",
+      "de": "Favabohnensuppe",
+      "en": "Broad Bean Soup",
+      "fr": "Soupe de féveroles",
+      "ja": "ブロードビーンスープ",
+      "ko": "Broad Bean Soup"
+    }
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 3248,
+    "durability": 80,
+    "id": "1732c75b5f9",
+    "level": 395,
+    "maxQuality": 14848,
+    "name": {
+      "cn": "Caramels",
+      "de": "Karamell",
+      "en": "Caramels",
+      "fr": "Caramels",
+      "ja": "キャラメル",
+      "ko": "Caramels"
+    }
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 1624,
+    "durability": 40,
+    "id": "2ea05a7b638",
+    "level": 395,
+    "maxQuality": 14848,
+    "name": {
+      "cn": "Garden Beet Sugar",
+      "de": "Gartenrübenzucker",
+      "en": "Garden Beet Sugar",
+      "fr": "Sucre de betterave potagère",
+      "ja": "ガーデンビートシュガー",
+      "ko": "Garden Beet Sugar"
+    }
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
+    "id": "074a286ae32",
+    "level": 400,
+    "maxQuality": 15625,
+    "name": {
+      "cn": "Broad Bean Salad",
+      "de": "Favabohnensalat",
+      "en": "Broad Bean Salad",
+      "fr": "Salade de féveroles",
+      "ja": "ブロードビーンサラダ",
+      "ko": "Broad Bean Salad"
+    }
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
+    "id": "0573f9195b7",
+    "level": 400,
+    "maxQuality": 15625,
+    "name": {
+      "cn": "Grilled Platinum Bream",
+      "de": "Gegrillte Platinbrasse",
+      "en": "Grilled Platinum Bream",
+      "fr": "Brême opaline grillée",
+      "ja": "グリルドプラチナブリーム",
+      "ko": "Grilled Platinum Bream"
+    }
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 2343,
+    "durability": 80,
+    "id": "7e36383a74b",
+    "level": 400,
+    "maxQuality": 8593,
+    "name": {
+      "cn": "Nutrient-Rich Porridge",
+      "de": "Proteinreiche Suppe",
+      "en": "Nutrient-Rich Porridge",
+      "fr": "Soupe tonifiante",
+      "ja": "低刺激の薬餌",
+      "ko": "Nutrient-Rich Porridge"
+    }
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
+    "id": "a026d8f4195",
+    "level": 400,
+    "maxQuality": 15625,
+    "name": {
+      "cn": "Spaghetti al Nero",
+      "de": "Tintenschwarze Spaghetti",
+      "en": "Spaghetti al Nero",
+      "fr": "Spaghetti al nero",
+      "ja": "スパゲッティ・ネーロ",
+      "ko": "Spaghetti al Nero"
+    }
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 1674,
+    "durability": 40,
+    "id": "740c34ac18b",
+    "level": 400,
+    "maxQuality": 15625,
+    "name": {
+      "cn": "Squid Ink",
+      "de": "Tintenfischtinte",
+      "en": "Squid Ink",
+      "fr": "Flacon de sépia",
+      "ja": "スクイッドインク",
+      "ko": "Squid Ink"
+    }
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 3407,
+    "durability": 80,
+    "id": "9ff9712377e",
+    "level": 403,
+    "maxQuality": 16091,
+    "name": {
+      "cn": "Baguette",
+      "de": "Baguette",
+      "en": "Baguette",
+      "fr": "Baguette tradition",
+      "ja": "バゲット",
+      "ko": "Baguette"
+    }
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 3407,
+    "durability": 80,
+    "id": "2f55e1334ec",
+    "level": 403,
+    "maxQuality": 16091,
+    "name": {
+      "cn": "Blood Tomato Juice",
+      "de": "Bluttomatensuppe",
+      "en": "Blood Tomato Juice",
+      "fr": "Jus de tomate sanguine",
+      "ja": "ブラッドトマトジュース",
+      "ko": "Blood Tomato Juice"
+    }
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 1703,
+    "durability": 40,
+    "id": "75fb4334ee6",
+    "level": 403,
+    "maxQuality": 16091,
+    "name": {
+      "cn": "Golden Honey",
+      "de": "Goldhonig",
+      "en": "Golden Honey",
+      "fr": "Miel doré",
+      "ja": "黄金蜂蜜",
+      "ko": "Golden Honey"
+    }
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 3407,
+    "durability": 80,
+    "id": "e3f0583c3d0",
+    "level": 403,
+    "maxQuality": 16091,
+    "name": {
+      "cn": "Pixie Apple Pie",
+      "de": "Pixie-Apfeltasche",
+      "en": "Pixie Apple Pie",
+      "fr": "Chausson aux pommes pixies",
+      "ja": "ピクシーアップルパイ",
+      "ko": "Pixie Apple Pie"
+    }
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 1703,
+    "durability": 40,
+    "id": "a249b1d7cd9",
+    "level": 403,
+    "maxQuality": 16091,
+    "name": {
+      "cn": "Upland Wheat Flour",
+      "de": "Hochplateau-Mehl",
+      "en": "Upland Wheat Flour",
+      "fr": "Farine de blé des plateaux",
+      "ja": "アップランド小麦粉",
+      "ko": "Upland Wheat Flour"
+    }
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 3467,
+    "durability": 80,
+    "id": "ccb9e0524e5",
+    "level": 406,
+    "maxQuality": 16557,
+    "name": {
+      "cn": "Blood Tomato Salad",
+      "de": "Bluttomatensalat",
+      "en": "Blood Tomato Salad",
+      "fr": "Salade de tomates sanguines",
+      "ja": "ブラッドトマトサラダ",
+      "ko": "Blood Tomato Salad"
+    }
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 2426,
+    "durability": 80,
+    "id": "54812405906",
+    "level": 406,
+    "maxQuality": 9106,
+    "name": {
+      "cn": "Fortifying Soup",
+      "de": "Stärkende Suppe",
+      "en": "Fortifying Soup",
+      "fr": "Potage fortifiant",
+      "ja": "回復期の薬餌",
+      "ko": "Fortifying Soup"
+    }
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 3467,
+    "durability": 80,
+    "id": "f36c61f6234",
+    "level": 406,
+    "maxQuality": 16557,
+    "name": {
+      "cn": "Mushroom Saute",
+      "de": "Champignonsauté",
+      "en": "Mushroom Saute",
+      "fr": "Sauté aux champignons",
+      "ja": "マッシュルームソテー",
+      "ko": "Mushroom Saute"
+    }
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 1733,
+    "durability": 40,
+    "id": "f643e83f867",
+    "level": 406,
+    "maxQuality": 16557,
+    "name": {
+      "cn": "Night Vinegar",
+      "de": "Schwarzer Essig",
+      "en": "Night Vinegar",
+      "fr": "Vinaigre noir",
+      "ja": "ダークビネガー",
+      "ko": "Night Vinegar"
+    }
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 3467,
+    "durability": 80,
+    "id": "eae4cbf3b11",
+    "level": 406,
+    "maxQuality": 16557,
+    "name": {
+      "cn": "Nut Bake",
+      "de": "Nusstörtchen",
+      "en": "Nut Bake",
+      "fr": "Tarte aux noix",
+      "ja": "ナッツペストリー",
+      "ko": "Nut Bake"
+    }
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 2426,
+    "durability": 80,
+    "id": "6584d782e92",
+    "level": 406,
+    "maxQuality": 9106,
+    "name": {
+      "cn": "Offering of Sweets",
+      "de": "Geschenk für die Pixies",
+      "en": "Offering of Sweets",
+      "fr": "Cadeau pour les Pixies",
+      "ja": "妖精への贈り物",
+      "ko": "Offering of Sweets"
+    }
+  },
+  {
+    "baseLevel": 76,
+    "difficulty": 3526,
+    "durability": 80,
+    "id": "32a9707333c",
+    "level": 409,
+    "maxQuality": 17024,
+    "name": {
+      "cn": "Baked Megapiranha",
+      "de": "Gebackener Megapiranha",
+      "en": "Baked Megapiranha",
+      "fr": "Megapiranha au four",
+      "ja": "ベイクド・メガピラニア",
+      "ko": "Baked Megapiranha"
+    }
+  },
+  {
+    "baseLevel": 76,
+    "difficulty": 3526,
+    "durability": 80,
+    "id": "099a923c144",
+    "level": 409,
+    "maxQuality": 17024,
+    "name": {
+      "cn": "Mushroom Skewer",
+      "de": "Champignons am Spieß",
+      "en": "Mushroom Skewer",
+      "fr": "Brochette de champignons",
+      "ja": "マッシュルームスキュアー",
+      "ko": "Mushroom Skewer"
+    }
+  },
+  {
+    "baseLevel": 76,
+    "difficulty": 3526,
+    "durability": 80,
+    "id": "9cdd4bee8ca",
+    "level": 409,
+    "maxQuality": 17024,
+    "name": {
+      "cn": "Roast Ovim",
+      "de": "Gerösteter Ovim",
+      "en": "Roast Ovim",
+      "fr": "Rôti d'ovim",
+      "ja": "ローストオヴィム",
+      "ko": "Roast Ovim"
+    }
+  },
+  {
+    "baseLevel": 76,
+    "difficulty": 3526,
+    "durability": 80,
+    "id": "b64ec1d8310",
+    "level": 409,
+    "maxQuality": 17024,
+    "name": {
+      "cn": "Sausage Links",
+      "de": "Knackwurst",
+      "en": "Sausage Links",
+      "fr": "Saucisses",
+      "ja": "ソーセージ",
+      "ko": "Sausage Links"
+    }
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 3586,
+    "durability": 80,
+    "id": "50b6dbc221b",
+    "level": 412,
+    "maxQuality": 17490,
+    "name": {
+      "cn": "Masala Chai",
+      "de": "Masala-Tee",
+      "en": "Masala Chai",
+      "fr": "Thé masala",
+      "ja": "マサラチャイ",
+      "ko": "Masala Chai"
+    }
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 3586,
+    "durability": 80,
+    "id": "ab0bcc4060c",
+    "level": 412,
+    "maxQuality": 17490,
+    "name": {
+      "cn": "Peppered Popotoes",
+      "de": "Pfeffertoffel",
+      "en": "Peppered Popotoes",
+      "fr": "Popotos au poivre",
+      "ja": "ペッパーポポト",
+      "ko": "Peppered Popotoes"
+    }
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 3586,
+    "durability": 80,
+    "id": "fb405066121",
+    "level": 412,
+    "maxQuality": 17490,
+    "name": {
+      "cn": "Popotoes au Gratin",
+      "de": "Ockertoffel-Gratin",
+      "en": "Popotoes au Gratin",
+      "fr": "Gratin de popotos brunes",
+      "ja": "ラセットポポトグラタン",
+      "ko": "Popotoes au Gratin"
+    }
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 2551,
+    "durability": 80,
+    "id": "693bb3349d3",
+    "level": 415,
+    "maxQuality": 9875,
+    "name": {
+      "cn": "Berube Feed",
+      "de": "Berube-Futterkohl",
+      "en": "Berube Feed",
+      "fr": "Crème au chou de Berube",
+      "ja": "ベルベ風の餌",
+      "ko": "Berube Feed"
+    }
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 3645,
+    "durability": 80,
+    "id": "58d07acd2c8",
+    "level": 415,
+    "maxQuality": 17956,
+    "name": {
+      "cn": "Espresso con Panna",
+      "de": "Sahne-Espresso",
+      "en": "Espresso con Panna",
+      "fr": "Espresso con panna",
+      "ja": "エスプレッソ・コン・パンナ",
+      "ko": "Espresso con Panna"
+    }
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 3645,
+    "durability": 80,
+    "id": "d2f45f1b75a",
+    "level": 415,
+    "maxQuality": 17956,
+    "name": {
+      "cn": "Mist Spinach Saute",
+      "de": "Sautierter Dunstspinat",
+      "en": "Mist Spinach Saute",
+      "fr": "Sauté de jeunes épinards brume",
+      "ja": "ミストスピナッチソテー",
+      "ko": "Mist Spinach Saute"
+    }
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 3645,
+    "durability": 80,
+    "id": "2b6b4815218",
+    "level": 415,
+    "maxQuality": 17956,
+    "name": {
+      "cn": "Risotto al Nero",
+      "de": "Risotto al nero",
+      "en": "Risotto al Nero",
+      "fr": "Risotto al nero",
+      "ja": "リゾット・ネーロ",
+      "ko": "Risotto al Nero"
+    }
+  },
+  {
+    "baseLevel": 79,
+    "difficulty": 3705,
+    "durability": 80,
+    "id": "bed8eb4c209",
+    "level": 418,
+    "maxQuality": 18422,
+    "name": {
+      "cn": "Blood Bouillabaisse",
+      "de": "Blut-Bouillabaisse",
+      "en": "Blood Bouillabaisse",
+      "fr": "Bouillabaisse sanguine",
+      "ja": "ブラッドブイヤベース",
+      "ko": "Blood Bouillabaisse"
+    }
+  },
+  {
+    "baseLevel": 79,
+    "difficulty": 3705,
+    "durability": 80,
+    "id": "b41068fa630",
+    "level": 418,
+    "maxQuality": 18422,
+    "name": {
+      "cn": "Coffee Biscuit",
+      "de": "Kaffeekeks",
+      "en": "Coffee Biscuit",
+      "fr": "Biscuit au café",
+      "ja": "コーヒークッキー",
+      "ko": "Coffee Biscuit"
+    }
+  },
+  {
+    "baseLevel": 79,
+    "difficulty": 3705,
+    "durability": 80,
+    "id": "751d8acec58",
+    "level": 418,
+    "maxQuality": 18422,
+    "name": {
+      "cn": "Paella",
+      "de": "Paella",
+      "en": "Paella",
+      "fr": "Paella",
+      "ja": "パエリア",
+      "ko": "Paella"
+    }
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "46784771f37",
+    "level": 420,
+    "maxQuality": 20287,
+    "name": {
+      "cn": "Jellied Harcot",
+      "de": "Harcot-Kompott",
+      "en": "Jellied Harcot",
+      "fr": "Gelée de rouge de Norvrandt",
+      "ja": "ハーコットゼリー",
+      "ko": "Jellied Harcot"
+    }
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "eea749f23b6",
+    "level": 420,
+    "maxQuality": 20287,
+    "name": {
+      "cn": "Lemonade",
+      "de": "Limonade",
+      "en": "Lemonade",
+      "fr": "Limonade",
+      "ja": "レモネード",
+      "ko": "Lemonade"
+    }
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "8b08c404cde",
+    "level": 420,
+    "maxQuality": 20287,
+    "name": {
+      "cn": "Ovim Cordon Bleu",
+      "de": "Cordon bleu vom Ovim",
+      "en": "Ovim Cordon Bleu",
+      "fr": "Cordon bleu d'ovim",
+      "ja": "オヴィム・コルドンブルー",
+      "ko": "Ovim Cordon Bleu"
+    }
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "9563cfa5b37",
+    "level": 420,
+    "maxQuality": 20287,
+    "name": {
+      "cn": "Oysters on the Half Shell",
+      "de": "Feinschmecker-Auster",
+      "en": "Oysters on the Half Shell",
+      "fr": "Huître comestible crue",
+      "ja": "ローエディブルオイスター",
+      "ko": "Oysters on the Half Shell"
+    }
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2760,
+    "durability": 80,
+    "id": "a1201d8d15b",
+    "level": 420,
+    "maxQuality": 11157,
+    "name": {
+      "cn": "Zun-Style Amaro Feed",
+      "de": "Zun-Klöße",
+      "en": "Zun-Style Amaro Feed",
+      "fr": "Salade de fruits à la zun",
+      "ja": "ズン族の草団子",
+      "ko": "Zun-Style Amaro Feed"
+    }
   }
 ]

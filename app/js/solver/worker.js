@@ -161,7 +161,15 @@ Settings:\n\
     var actionName = settings.sequence[j];
     var action = AllActions[actionName];
     if (action !== undefined) {
-      sequence.push(action);
+      if (crafterActions.filter(function (value) { return value.shortName === actionName }).length !== 0) {
+        sequence.push(action);
+      }
+      else {
+        logOutput.write('Error: Removing disabled action from sequence: ' + actionName + '\n');
+      }
+    }
+    else {
+      logOutput.write('Error: Removing unsupported action from sequence: ' + actionName + '\n');
     }
   }
 
@@ -180,7 +188,8 @@ Settings:\n\
 
     logOutput.write('\n\n');
 
-    var heuristcState = MonteCarloSequence(sequence, NewStateFromSynth(synth), true, false, false, settings.debug, logOutput);
+    var states = MonteCarloSequence(sequence, NewStateFromSynth(synth), true, 'skipUnusable', false, settings.debug, logOutput);
+    var heuristcState = states[states.length-1];
 
     var chk = heuristcState.checkViolations();
     var feasibility = chk.progressOk && chk.durabilityOk && chk.cpOk && chk.trickOk && chk.reliabilityOk;
@@ -287,7 +296,8 @@ function finish() {
 function postProgress(gen, maxGen, best, synthNoConditions) {
   var startState = NewStateFromSynth(synthNoConditions);
 
-  var currentState = MonteCarloSequence(best, startState, true, false, false, false);
+  var states = MonteCarloSequence(best, startState, true, 'skipUnusable', false, false);
+  var currentState = states[states.length-1];
   var violations = currentState.checkViolations();
 
   self.postMessage({

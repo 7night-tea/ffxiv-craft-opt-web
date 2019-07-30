@@ -21,12 +21,12 @@
     }
   }
 
-  function controller($scope, _actionGroups, _actionsByName, _xivdbtooltips, _getActionImagePath, _isActionCrossClass) {
+  function controller($scope, _actionGroups, _actionsByName, _tooltips, _getActionImagePath, _iActionClassSpecific) {
     $scope.actionGroups = _actionGroups;
     $scope.getActionImagePath = _getActionImagePath;
     $scope.cssClassesForAction = cssClassesForAction;
     $scope.actionForName = actionForName;
-    $scope.isActionCrossClass = isActionCrossClass;
+    $scope.iActionClassSpecific = _iActionClassSpecific;
 
     $scope.actionTooltips = {};
 
@@ -47,7 +47,7 @@
         else {
           key = $scope.cls + action.shortName;
         }
-        newTooltips[action.shortName] = _xivdbtooltips.actionTooltips[key];
+        newTooltips[action.shortName] = _tooltips.actionTooltips[key];
       });
       $scope.actionTooltips = newTooltips;
     }
@@ -62,8 +62,5 @@
       return _actionsByName[name];
     }
 
-    function isActionCrossClass(name) {
-      return _isActionCrossClass(name, $scope.cls);
-    }
   }
 })();
